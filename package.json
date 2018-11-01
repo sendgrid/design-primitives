@@ -1,0 +1,11 @@
+{
+  "name": "@sendgrid/design-primatives",
+  "version": "1.0.0",
+  "description": "SendGrid design primatives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team UI/UX <team-uiux@sendgrid.com>",
+  "license": "ISC"
+}
