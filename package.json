@@ -1,5 +1,5 @@
 {
-  "name": "@sendgrid/design-primatives",
+  "name": "@sendgrid/design-primitives",
   "version": "1.0.0",
   "description": "SendGrid design primatives",
   "main": "index.js",
