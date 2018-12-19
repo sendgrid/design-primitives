@@ -1,0 +1,9 @@
+{
+  "imports": [
+    "../../common/colors.json"
+  ],
+  "aliases": {
+    "base-font-size": "20px",
+    "base-line-height": "35px"
+  }
+}

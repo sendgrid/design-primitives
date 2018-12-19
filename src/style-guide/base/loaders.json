@@ -1,0 +1,26 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "loaders"
+  },
+  "props": {
+    "loader-dark-light": {
+      "value": "rgba({!white}, 0.35)",
+      "type": "color/rgb"
+    },
+    "loader-dark-medium": {
+      "value": "rgba({!white}, 0.75)",
+      "type": "color/rgb"
+    },
+    "loader-dark-medium-solid": {
+      "value": "rgba({!white}, 0.9)",
+      "type": "color/rgb"
+    },
+    "loader-dark-solid": {
+      "value": "{!white}",
+      "type": "color/hex"
+    }
+  }
+}

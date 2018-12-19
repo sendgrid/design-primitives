@@ -1,0 +1,17 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "font-base-font-size": {
+      "value": "{!base-font-size}",
+      "type": "size",
+      "category": "typesettings"
+    },
+    "font-base-line-height": {
+      "value": "{!base-line-height}",
+      "type": "size",
+      "category": "typesettings"
+    }
+  }
+}

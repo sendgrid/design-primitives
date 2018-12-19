@@ -1,0 +1,69 @@
+/*
+ * 
+ * SendGrid Design Tokens
+ * 
+ */
+:root {
+--sg-color-alert-danger: #f4dddd;
+--sg-color-alert-danger-text: #b71c1c;
+--sg-color-alert-success: #f1f7e9;
+--sg-color-alert-success-text: #2e6b30;
+--sg-color-alert-trial: #294661;
+--sg-color-alert-verification: #18c96e;
+--sg-color-alert-warning: #fefae6;
+--sg-color-alert-warning-text: #8c6c15;
+--sg-color-black: #000;
+--sg-color-blue: #1a82e2;
+--sg-color-blue-02: #fbfdff;
+--sg-color-blue-05: #f3f9fd;
+--sg-color-blue-10: #e8f2fc;
+--sg-color-blue-20: #d1e6f9;
+--sg-color-blue-40: #a3cdf3;
+--sg-color-blue-60: #76b4ee;
+--sg-color-blue-80: #489be8;
+--sg-color-bluebird: #2196f3;
+--sg-color-burnt-orange: #ff5722;
+--sg-color-caribbean: #00e5ff;
+--sg-color-carrot: #f90;
+--sg-color-cobalt: #303f9f;
+--sg-color-crown: #7b1fa2;
+--sg-color-grass-stain: #8ac24a;
+--sg-color-lavender: #dea7e8;
+--sg-color-lime: #cbdb39;
+--sg-color-logo-accent-dark: #009dd9;
+--sg-color-logo-accent-light: #99e1f4;
+--sg-color-logo-accent-medium: #00b3e3;
+--sg-color-mango: #fdd835;
+--sg-color-mantis: #18c96e;
+--sg-color-ron-burgundy: #b71c1c;
+--sg-color-sangria: #880e4f;
+--sg-color-screample: #7c4dff;
+--sg-color-seafoam: #00bcd4;
+--sg-color-slate: #294661;
+--sg-color-slate-02: #fbfbfc;
+--sg-color-slate-05: #f4f6f7;
+--sg-color-slate-10: #e9ecef;
+--sg-color-slate-20: #d4dadf;
+--sg-color-slate-40: #a9b5c0;
+--sg-color-slate-60: #7f90a0;
+--sg-color-slate-80: #546b81;
+--sg-color-spruce: #4cb04f;
+--sg-color-steel: #9e9e9e;
+--sg-color-white: #fff;
+--sg-color-wild-strawberry: #ff4081;
+--sg-icon-airplane: "\e90b";
+--sg-loader-dark-light: rgba(#fff, 0.35);
+--sg-loader-dark-medium: rgba(#fff, 0.75);
+--sg-loader-dark-medium-solid: rgba(#fff, 0.9);
+--sg-loader-dark-solid: #fff;
+--sg-modal-bg: rgba(#000, 0.5);
+--sg-modal-body-height: 454px;
+--sg-modal-center-bg: #fff;
+--sg-modal-center-position: 300px;
+--sg-modal-center-width: 600px;
+--sg-modal-footer-height: 71px;
+--sg-modal-height: 665px;
+--sg-modal-side-shadow: -2px 0 6px rgba(#294661, 0.1);
+--sg-modal-width: 525px;
+--sg-modal-z-index: 20000;
+}

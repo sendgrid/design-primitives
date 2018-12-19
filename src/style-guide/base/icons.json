@@ -1,0 +1,11 @@
+{
+  "global": {
+    "type": "web",
+    "category": "icons"
+  },
+  "props": {
+    "icon-airplane": {
+      "value": "\"\\e90b\""
+    }
+  }
+}

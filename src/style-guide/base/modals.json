@@ -1,0 +1,50 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "modals"
+  },
+  "props": {
+    "modal-bg": {
+      "value": "rgba({!black}, 0.5)",
+      "type": "color/rgb"
+    },
+    "modal-width": {
+      "value": "525px",
+      "type": "number"
+    },
+    "modal-height": {
+      "value": "665px",
+      "type": "number"
+    },
+    "modal-footer-height": {
+      "value": "71px",
+      "type": "number"
+    },
+    "modal-body-height": {
+      "value": "454px",
+      "type": "number"
+    },
+    "modal-z-index": {
+      "value": "20000",
+      "type": "number"
+    },
+    "modal-side-shadow": {
+      "value": "-2px 0 6px rgba({!slate}, 0.1)",
+      "type": "box-shadow"
+    },
+    "modal-center-bg": {
+      "value": "{!white}",
+      "type": "color/hex"
+    },
+    "modal-center-width": {
+      "value": "600px",
+      "type": "number"
+    },
+    "modal-center-position": {
+      "value": "300px",
+      "type": "number"
+    }
+  }
+}
