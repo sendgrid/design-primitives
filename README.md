@@ -28,7 +28,7 @@ npm install sendgrid-tokens --save-dev
 ### CSS:
 
 ```css
-@import '~sendgrid-tokens/tokens/styleguide/css/base.scss';
+@import '~sendgrid-tokens/tokens/styleguide/css/base.css';
 
 .my-selector {
   color: var(--sg-color-slate-20);
