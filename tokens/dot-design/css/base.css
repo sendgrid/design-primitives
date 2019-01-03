@@ -4,20 +4,24 @@
  * 
  */
 :root {
---sg-color-code-blue: #1A82E2;
---sg-color-code-green: #18C96E;
---sg-color-code-purple: #7C4DFF;
---sg-color-design-blue: #1A82E2;
---sg-color-design-electric-green: #18C96E;
---sg-color-design-gray: #9E9E9E;
---sg-color-design-green: #8AC24A;
---sg-color-design-lavendar: #DEA7E8;
---sg-color-design-orange: #FF9900;
---sg-color-design-pink: #FF4081;
---sg-color-design-red: #880E4F;
---sg-color-design-teal: #00BCD4;
---sg-color-design-violet: #7C4DFF;
---sg-color-design-yellow: #FDD835;
---sg-font-base-font-size: 20px;
---sg-font-base-line-height: 35px;
+--colfax: Colfax, Helvetica, Arial, sans-serif;
+--colfax-bold: Colfax-Bold, Helvetica, Arial, sans-serif;
+--colfax-light: Colfax-Light, Helvetica, Arial, sans-serif;
+--colfax-medium: Colfax-Medium, Helvetica, Arial, sans-serif;
+--color-code-blue: #1A82E2;
+--color-code-green: #18C96E;
+--color-code-purple: #7C4DFF;
+--color-design-blue: #1A82E2;
+--color-design-electric-green: #18C96E;
+--color-design-gray: #9E9E9E;
+--color-design-green: #8AC24A;
+--color-design-lavendar: #DEA7E8;
+--color-design-orange: #FF9900;
+--color-design-pink: #FF4081;
+--color-design-red: #880E4F;
+--color-design-teal: #00BCD4;
+--color-design-violet: #7C4DFF;
+--color-design-yellow: #FDD835;
+--font-base-font-size: 20px;
+--font-base-line-height: 35px;
 }

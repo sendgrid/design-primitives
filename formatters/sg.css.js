@@ -2,7 +2,7 @@ import _ from 'lodash';
 import sortTokens from './sort-tokens';
 import { blockComment } from './license-header';
 
-export const nameTemplate = ({ name }) => `--sg-${_.kebabCase(name)}`;
+export const nameTemplate = ({ name }) => `--${_.kebabCase(name)}`;
 
 export const valueTemplate = ({ value, type }) =>
   type === 'media-query' ? `"${value}"` : value;

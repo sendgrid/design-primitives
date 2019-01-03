@@ -1,6 +1,7 @@
 {
   "imports": [
-    "../../common/colors.json"
+    "../../common/colors.json",
+    "../../common/typography.json"
   ],
   "aliases": {
     "base-font-size": "20px",

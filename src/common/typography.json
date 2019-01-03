@@ -1,0 +1,24 @@
+{
+  "props": {
+    "colfax": {
+      "value": "Colfax, Helvetica, Arial, sans-serif",
+      "type": "font",
+      "category": "typesetting"
+    },
+    "colfax-light": {
+      "value": "Colfax-Light, Helvetica, Arial, sans-serif",
+      "type": "font",
+      "category": "typesetting"
+    },
+    "colfax-medium": {
+      "value": "Colfax-Medium, Helvetica, Arial, sans-serif",
+      "type": "font",
+      "category": "typesetting"
+    },
+    "colfax-bold": {
+      "value": "Colfax-Bold, Helvetica, Arial, sans-serif",
+      "type": "font",
+      "category": "typesetting"
+    }
+  }
+}
