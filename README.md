@@ -19,7 +19,7 @@ npm install sendgrid-tokens --save-dev
 ### Sass:
 
 ```scss
-@import '~sendgrid-tokens/tokens/styleguide/scss/base.scss';
+@import '~design-primitives/tokens/styleguide/scss/base.scss';
 
 .my-selector {
   color: $sg-color-slate-20;
@@ -29,7 +29,7 @@ npm install sendgrid-tokens --save-dev
 ### CSS:
 
 ```css
-@import '~sendgrid-tokens/tokens/styleguide/css/base.css';
+@import '~design-primitives/tokens/styleguide/css/base.css';
 
 .my-selector {
   color: var(--sg-color-slate-20);
@@ -40,32 +40,32 @@ npm install sendgrid-tokens --save-dev
 
 ```js
 // Individual tokens
-import { colfax } from '~sendgrid-tokens/tokens/styleguide/es6/base.es6';
+import { colfax } from '~design-primitives/tokens/styleguide/es6/base.es6';
 
 console.log(colfax);
 
 // Token category
-import { colors } from '~sendgrid-tokens/tokens/styleguide/es6/base.es6';
+import { colors } from '~design-primitives/tokens/styleguide/es6/base.es6';
 
 console.log(colors.colorCodePurple);
 
 // All tokens
-import * as tokens from '~sendgrid-tokens/tokens/styleguide/es6/base.es6';
+import * as tokens from '~design-primitives/tokens/styleguide/es6/base.es6';
 ```
 
 ### JavaScript (CommonJS):
 
 ```js
 // Individual tokens
-import { colfax } from '~sendgrid-tokens/tokens/styleguide/common/base.common';
+import { colfax } from '~design-primitives/tokens/styleguide/common/base.common';
 
 console.log(colfax);
 
 // Token category
-import { colors } from '~sendgrid-tokens/tokens/styleguide/common/base.common';
+import { colors } from '~design-primitives/tokens/styleguide/common/base.common';
 
 console.log(colors.colorCodePurple);
 
 // All tokens
-import * as tokens from '~sendgrid-tokens/tokens/styleguide/common/base.common';
+import * as tokens from '~design-primitives/tokens/styleguide/common/base.common';
 ```
