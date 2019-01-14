@@ -6,9 +6,13 @@ import jsonLint from 'gulp-jsonlint';
 
 import sgScss from './formatters/sg.scss';
 import sgCss from './formatters/sg.css';
+import sgEs6Js from './formatters/sg.es6.js';
+import sgCommonJs from './formatters/sg.common.js';
 
 theo.registerFormat('scss', sgScss);
 theo.registerFormat('css', sgCss);
+theo.registerFormat('es6.js', sgEs6Js);
+theo.registerFormat('common.js', sgCommonJs);
 
 gulp.task('clean', () => del(['tokens']));
 
@@ -39,6 +43,24 @@ gulp.task('styleguide:tokens:css', () =>
     .pipe(gulp.dest('tokens/style-guide/css'))
 );
 
+gulp.task('styleguide:tokens:es6js', () =>
+  gulp.src('src/style-guide/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'es6.js' }
+    }))
+    .pipe(gulp.dest('tokens/style-guide/es6'))
+);
+
+gulp.task('styleguide:tokens:commonjs', () =>
+  gulp.src('src/style-guide/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'common.js' }
+    }))
+    .pipe(gulp.dest('tokens/style-guide/js'))
+);
+
 gulp.task('dotdesign:tokens:scss', () =>
   gulp.src('src/dot-design/base.json')
     .pipe(gulpTheo({
@@ -57,6 +79,24 @@ gulp.task('dotdesign:tokens:css', () =>
     .pipe(gulp.dest('tokens/dot-design/css'))
 );
 
+gulp.task('dotdesign:tokens:es6js', () =>
+  gulp.src('src/dot-design/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'es6.js' }
+    }))
+    .pipe(gulp.dest('tokens/dot-design/es6'))
+);
+
+gulp.task('dotdesign:tokens:commonjs', () =>
+  gulp.src('src/dot-design/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'common.js' }
+    }))
+    .pipe(gulp.dest('tokens/dot-design/js'))
+);
+
 gulp.task('default',
   gulp.series(
     gulp.parallel(
@@ -66,8 +106,12 @@ gulp.task('default',
     gulp.parallel(
       'styleguide:tokens:scss',
       'styleguide:tokens:css',
+      'styleguide:tokens:es6js',
+      'styleguide:tokens:commonjs',
       'dotdesign:tokens:scss',
-      'dotdesign:tokens:css'
+      'dotdesign:tokens:css',
+      'dotdesign:tokens:es6js',
+      'dotdesign:tokens:commonjs',
     )
   )
 );
