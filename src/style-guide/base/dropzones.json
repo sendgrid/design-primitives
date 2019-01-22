@@ -1,0 +1,29 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "type": "color/hex",
+    "category": "dropzones"
+  },
+  "props": {
+    "dropzone-bg": {
+      "value": "{!slate-02}"
+    },
+    "dropzone-border": {
+      "value": "{!slate-20}"
+    },
+    "dropzone-bg-active": {
+      "value": "{!slate-05}"
+    },
+    "dropzone-border-active": {
+      "value": "{!slate-60}"
+    },
+    "dropzone-hovered-bg": {
+      "value": "#e7f9f0"
+    },
+    "dropzone-hovered-border": {
+      "value": "{!mantis}"
+    }
+  }
+}

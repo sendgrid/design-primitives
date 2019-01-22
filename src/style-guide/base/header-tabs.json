@@ -1,0 +1,17 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "type": "color/hex",
+    "category": "header-tabs"
+  },
+  "props": {
+    "header-tabs-border-color": {
+      "value": "rgba({!black}, 0.2)"
+    },
+    "header-tabs-hover": {
+      "value": "#394f64"
+    }
+  }
+}

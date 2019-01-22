@@ -1,0 +1,22 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "switches"
+  },
+  "props": {
+    "switch-background-z-index": {
+      "value": "10",
+      "type": "number"
+    },
+    "switch-selector-z-index": {
+      "value": "11",
+      "type": "number"
+    },
+    "switch-option-z-index": {
+      "value": "12",
+      "type": "number"
+    }
+  }
+}

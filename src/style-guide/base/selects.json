@@ -1,0 +1,23 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "type": "color/hex",
+    "category": "selects"
+  },
+  "props": {
+    "select-disabled-color": {
+      "value": "rgba({!steel}, 0.4)"
+    },
+    "select2-disabled-border": {
+      "value": "rgba({!steel}, 0.4)"
+    },
+    "select2-disabled-placholder": {
+      "value": "rgba({!steel}, 0.4)"
+    },
+    "select2-disabled-arrow": {
+      "value": "rgba({!steel}, 0.4)"
+    }
+  }
+}

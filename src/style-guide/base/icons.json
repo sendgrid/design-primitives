@@ -6,6 +6,303 @@
   "props": {
     "icon-airplane": {
       "value": "\"\\e90b\""
+    },
+    "icon-airplane-fill": {
+      "value": "\"\\e912\""
+    },
+    "icon-align-center": {
+      "value": "\"\\e927\""
+    },
+    "icon-align-left": {
+      "value": "\"\\e928\""
+    },
+    "icon-align-right": {
+      "value": "\"\\e929\""
+    },
+    "icon-analytics": {
+      "value": "\"\\e915\""
+    },
+    "icon-automation": {
+      "value": "\"\\e939\""
+    },
+    "icon-builder": {
+      "value": "\"\\e914\""
+    },
+    "icon-button": {
+      "value": "\"\\e920\""
+    },
+    "icon-calendar": {
+      "value": "\"\\e917\""
+    },
+    "icon-caret": {
+      "value": "\"\\e900\""
+    },
+    "icon-check": {
+      "value": "\"\\e905\""
+    },
+    "icon-check-circle": {
+      "value": "\"\\e907\""
+    },
+    "icon-check-shield": {
+      "value": "\"\\e93f\""
+    },
+    "icon-check-thin": {
+      "value": "\"\\e938\""
+    },
+    "icon-clean-ui": {
+      "value": "\"\\e916\""
+    },
+    "icon-click": {
+      "value": "\"\\e93b\""
+    },
+    "icon-clock": {
+      "value": "\"\\e90d\""
+    },
+    "icon-cloud-question": {
+      "value": "\"\\e93c\""
+    },
+    "icon-code": {
+      "value": "\"\\e919\""
+    },
+    "icon-column-one": {
+      "value": "\"\\e953\""
+    },
+    "icon-column-two": {
+      "value": "\"\\e952\""
+    },
+    "icon-column-three": {
+      "value": "\"\\e951\""
+    },
+    "icon-column-four": {
+      "value": "\"\\e950\""
+    },
+    "icon-columns": {
+      "value": "\"\\e923\""
+    },
+    "icon-contacts": {
+      "value": "\"\\e913\""
+    },
+    "icon-contacts-alt": {
+      "value": "\"\\e92c\""
+    },
+    "icon-copy": {
+      "value": "\"\\e902\""
+    },
+    "icon-create": {
+      "value": "\"\\e901\""
+    },
+    "icon-csv": {
+      "value": "\"\\e92a\""
+    },
+    "icon-desktop-view": {
+      "value": "\"\\e627\""
+    },
+    "icon-divider": {
+      "value": "\"\\e91a\""
+    },
+    "icon-download": {
+      "value": "\"\\e93e\""
+    },
+    "icon-drag": {
+      "value": "\"\\e91b\""
+    },
+    "icon-editor-code": {
+      "value": "\"\\e934\""
+    },
+    "icon-editor-design": {
+      "value": "\"\\e935\""
+    },
+    "icon-editor-old": {
+      "value": "\"\\e933\""
+    },
+    "icon-ellipsis": {
+      "value": "\"\\e90e\""
+    },
+    "icon-ellipsis-vertical": {
+      "value": "\"\\e93a\""
+    },
+    "icon-forms": {
+      "value": "\"\\e94f\""
+    },
+    "icon-gear": {
+      "value": "\"\\e608\""
+    },
+    "icon-help": {
+      "value": "\"\\e932\""
+    },
+    "icon-help-error": {
+      "value": "\"\\e93d\""
+    },
+    "icon-image": {
+      "value": "\"\\e91e\""
+    },
+    "icon-images": {
+      "value": "\"\\e924\""
+    },
+    "icon-image-text": {
+      "value": "\"\\e922\""
+    },
+    "icon-info-circle": {
+      "value": "\"\\e903\""
+    },
+    "icon-key": {
+      "value": "\"\\e918\""
+    },
+    "icon-list": {
+      "value": "\"\\e92b\""
+    },
+    "icon-locked": {
+      "value": "\"\\e91d\""
+    },
+    "icon-mail": {
+      "value": "\"\\e61d\""
+    },
+    "icon-mail-search": {
+      "value": "\"\\e92d\""
+    },
+    "icon-mc-align-center": {
+      "value": "\"\\e94d\""
+    },
+    "icon-mc-align-justify": {
+      "value": "\"\\e947\""
+    },
+    "icon-mc-align-left": {
+      "value": "\"\\e94e\""
+    },
+    "icon-mc-align-right": {
+      "value": "\"\\e94c\""
+    },
+    "icon-mc-code": {
+      "value": "\"\\e942\""
+    },
+    "icon-mc-design": {
+      "value": "\"\\e629\""
+    },
+    "icon-mc-format-bold": {
+      "value": "\"\\e94b\""
+    },
+    "icon-mc-format-italic": {
+      "value": "\"\\e94a\""
+    },
+    "icon-mc-format-link": {
+      "value": "\"\\e949\""
+    },
+    "icon-mc-format-underline": {
+      "value": "\"\\e948\""
+    },
+    "icon-mc-ordered-list": {
+      "value": "\"\\e946\""
+    },
+    "icon-mc-preview": {
+      "value": "\"\\e602\""
+    },
+    "icon-mc-return": {
+      "value": "\"\\e615\""
+    },
+    "icon-mc-test-data": {
+      "value": "\"\\e943\""
+    },
+    "icon-mc-unordered-list": {
+      "value": "\"\\e945\""
+    },
+    "icon-mobile-view": {
+      "value": "\"\\e61c\""
+    },
+    "icon-move-right": {
+      "value": "\"\\e940\""
+    },
+    "icon-move-left": {
+      "value": "\"\\e941\""
+    },
+    "icon-pencil": {
+      "value": "\"\\e624\""
+    },
+    "icon-people": {
+      "value": "\"\\e601\""
+    },
+    "icon-pie-chart": {
+      "value": "\"\\e606\""
+    },
+    "icon-plus": {
+      "value": "\"\\e617\""
+    },
+    "icon-reload": {
+      "value": "\"\\e926\""
+    },
+    "icon-save-draft": {
+      "value": "\"\\e911\""
+    },
+    "icon-search": {
+      "value": "\"\\e906\""
+    },
+    "icon-segment": {
+      "value": "\"\\e609\""
+    },
+    "icon-social": {
+      "value": "\"\\e925\""
+    },
+    "icon-sort-asc": {
+      "value": "\"\\e910\""
+    },
+    "icon-sort-desc": {
+      "value": "\"\\e90f\""
+    },
+    "icon-space": {
+      "value": "\"\\e944\""
+    },
+    "icon-spacer": {
+      "value": "\"\\e91f\""
+    },
+    "icon-status-caution": {
+      "value": "\"\\e92f\""
+    },
+    "icon-status-negative": {
+      "value": "\"\\e930\""
+    },
+    "icon-status-positive": {
+      "value": "\"\\e92e\""
+    },
+    "icon-teammate": {
+      "value": "\"\\e90c\""
+    },
+    "icon-test-data": {
+      "value": "\"\\e937\""
+    },
+    "icon-text": {
+      "value": "\"\\e921\""
+    },
+    "icon-text-only": {
+      "value": "\"\\e603\""
+    },
+    "icon-trash": {
+      "value": "\"\\e62b\""
+    },
+    "icon-unlocked": {
+      "value": "\"\\e91c\""
+    },
+    "icon-unsubscribe": {
+      "value": "\"\\e936\""
+    },
+    "icon-upload": {
+      "value": "\"\\e931\""
+    },
+    "icon-user-security": {
+      "value": "\"\\e90a\""
+    },
+    "icon-view": {
+      "value": "\"\\e600\""
+    },
+    "icon-warning": {
+      "value": "\"\\e909\""
+    },
+    "icon-warning-triangle": {
+      "value": "\"\\e904\""
+    },
+    "icon-x": {
+      "value": "\"\\e908\""
+    },
+    "icon-x-legacy": {
+      "value": "\"\\e62e\""
     }
   }
 }

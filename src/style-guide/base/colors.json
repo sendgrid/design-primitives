@@ -55,6 +55,9 @@
     "color-slate-02": {
       "value": "{!slate-02}"
     },
+    "color-slate-dark-05": {
+      "value": "#16452d"
+    },
     "color-logo-accent-light": {
       "value": "{!logo-accent-light}"
     },
@@ -147,6 +150,9 @@
     },
     "color-alert-trial": {
       "value": "{!slate}"
+    },
+    "color-highlighter": {
+      "value": "rgba({!mango}, 0.6)"
     }
   }
 }
