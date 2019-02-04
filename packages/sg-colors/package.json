@@ -1,5 +1,5 @@
 {
-  "name": "sg-colors",
+  "name": "@sendgrid/design-primitives/sg-colors",
   "version": "1.0.0",
   "description": "Color primitives for SendGrid design primitives",
   "main": "colors.json",

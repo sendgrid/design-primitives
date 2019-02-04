@@ -2,6 +2,7 @@
   "name": "@sendgrid/design-primitives",
   "version": "1.0.0",
   "description": "SendGrid design primitives",
+  "repository": "https://github.com/sendgrid/design-primitives",
   "scripts": {
     "tokens": "gulp"
   },
