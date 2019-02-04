@@ -1,0 +1,53 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "type": "color/hex",
+    "category": "colors"
+  },
+  "props": {
+    "color-code-purple": {
+      "value": "{!code-purple}"
+    },
+    "color-code-blue": {
+      "value": "{!code-blue}"
+    },
+    "color-code-green": {
+      "value": "{!code-green}"
+    },
+    "color-design-blue": {
+      "value": "{!design-blue}"
+    },
+    "color-design-violet": {
+      "value": "{!design-violet}"
+    },
+    "color-design-teal": {
+      "value": "{!design-teal}"
+    },
+    "color-design-red": {
+      "value": "{!design-red}"
+    },
+    "color-design-orange": {
+      "value": "{!design-orange}"
+    },
+    "color-design-pink": {
+      "value": "{!design-pink}"
+    },
+    "color-design-yellow": {
+      "value": "{!design-yellow}"
+    },
+    "color-design-gray": {
+      "value": "{!design-gray}"
+    },
+    "color-design-green": {
+      "value": "{!design-green}"
+    },
+    "color-design-lavendar": {
+      "value": "{!design-lavendar}"
+    },
+    "color-design-electric-green": {
+      "value": "{!design-electric-green}"
+    }
+  }
+}

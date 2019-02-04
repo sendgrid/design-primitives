@@ -1,0 +1,12 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "font-path": {
+      "value": "{!font-path}",
+      "type": "file-path",
+      "category": "typesettings"
+    }
+  }
+}

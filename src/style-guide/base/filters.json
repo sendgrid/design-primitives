@@ -1,0 +1,14 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "filters"
+  },
+  "props": {
+    "segment-term-max-width": {
+      "value": "768px",
+      "type": "number"
+    }
+  }
+}

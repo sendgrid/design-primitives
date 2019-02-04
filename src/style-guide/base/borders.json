@@ -1,0 +1,14 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "borders"
+  },
+  "props": {
+    "border-radius": {
+      "value": "2px",
+      "type": "number"
+    }
+  }
+}

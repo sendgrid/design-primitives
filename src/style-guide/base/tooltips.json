@@ -1,0 +1,26 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "tooltips"
+  },
+  "props": {
+    "tooltip-bg": {
+      "value": "{!slate}",
+      "type": "color/hex"
+    },
+    "tooltip-font-size": {
+      "value": "12px",
+      "type": "number"
+    },
+    "tooltip-line-height": {
+      "value": "18px",
+      "type": "number"
+    },
+    "tooltip-arrow-height": {
+      "value": "6px",
+      "type": "number"
+    }
+  }
+}

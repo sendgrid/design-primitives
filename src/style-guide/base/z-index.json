@@ -1,0 +1,26 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "z-index"
+  },
+  "props": {
+    "dropdown-menu-z-index": {
+      "value": "1000",
+      "type": "number"
+    },
+    "spotlight-circle-z-index": {
+      "value": "10000",
+      "type": "number"
+    },
+    "spotlight-tooltip-z-index": {
+      "value": "10010",
+      "type": "number"
+    },
+    "info-popup-z-index": {
+      "value": "19000",
+      "type": "number"
+    }
+  }
+}

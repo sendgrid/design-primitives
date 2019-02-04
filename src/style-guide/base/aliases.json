@@ -1,0 +1,23 @@
+{
+  "imports": [
+    "../../common/colors.json",
+    "../../common/typography.json"
+  ],
+  "aliases": {
+    "font-path": "\"../fonts\"",
+    "scale-base": "12px",
+    "scale-base-up-01": "13px",
+    "scale-base-up-02": "15px",
+    "scale-base-up-03": "18px",
+    "scale-base-up-04": "20px",
+    "scale-base-up-05": "27px",
+    "scale-base-up-06": "30px",
+    "scale-base-up-07": "40px",
+    "scale-base-up-08": "45px",
+    "scale-base-up-09": "60px",
+    "scale-base-up-10": "90px",
+    "scale-base-down-01": "9px",
+    "scale-base-down-02": "6px",
+    "scale-base-down-03": "3px"
+  }
+}

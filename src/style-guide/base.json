@@ -1,0 +1,20 @@
+{
+  "imports": [
+    "./base/borders.json",
+    "./base/colors.json",
+    "./base/dropzones.json",
+    "./base/filters.json",
+    "./base/header-tabs.json",
+    "./base/icons.json",
+    "./base/inputs.json",
+    "./base/modals.json",
+    "./base/loaders.json",
+    "./base/scale.json",
+    "./base/selects.json",
+    "./base/switches.json",
+    "./base/tables.json",
+    "./base/tooltips.json",
+    "./base/typography.json",
+    "./base/z-index.json"
+  ]
+}

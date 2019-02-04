@@ -2,10 +2,21 @@
   "name": "@sendgrid/design-primitives",
   "version": "1.0.0",
   "description": "SendGrid design primatives",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tokens": "gulp"
   },
   "author": "Team UI/UX <team-uiux@sendgrid.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/register": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-jsonlint": "^1.2.2",
+    "gulp-theo": "^2.0.0",
+    "lodash": "^4.17.11",
+    "theo": "^8.0.1"
+  }
 }

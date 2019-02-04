@@ -1,0 +1,30 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "inputs"
+  },
+  "props": {
+    "text-input-disabled-border": {
+      "value": "rgba({!steel}, 0.4)",
+      "type": "color/rgb"
+    },
+    "text-input-disabled-color": {
+      "value": "rgba({!steel}, 0.4)",
+      "type": "color/rgb"
+    },
+    "text-input-search-title-bg": {
+      "value": "rgba({!sg-blue}, 0.1)",
+      "type": "color/rgb"
+    },
+    "text-area-disabled-border": {
+      "value": "rgba({!steel}, 0.4)",
+      "type": "color/rgb"
+    },
+    "text-area-disabled-color": {
+      "value": "rgba({!steel}, 0.4)",
+      "type": "color/rgb"
+    }
+  }
+}
