@@ -1,0 +1,19 @@
+{
+  "name": "sg-spacing",
+  "version": "1.0.0",
+  "description": "Spacing primitives for SendGrid design primitives",
+  "main": "spacing.json",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/src/sg-spacing",
+  "keywords": [
+    "primitives",
+    "spacing",
+    "variables",
+    "design-system"
+  ],
+  "author": "Team UI/UX <team-uiux@sendgrid.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendgrid/design-primitives"
+  },
+  "homepage": "https://github.com/sendgrid/design-primitives#readme"
+}

@@ -1,0 +1,26 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "card"
+  },
+  "props": {
+    "card-padding": {
+      "value": "{!scale-base-up-04}",
+      "type": "number"
+    },
+    "card-border-width": {
+      "value": "1px",
+      "type": "number"
+    },
+    "card-border-color": {
+      "value": "{!slate-10}",
+      "type": "color/hex"
+    },
+    "card-selected-border-color": {
+      "value": "{!slate-40}",
+      "type": "color/hex"
+    }
+  }
+}

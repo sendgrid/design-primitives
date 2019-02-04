@@ -1,0 +1,24 @@
+{
+  "name": "sg-dot-design",
+  "version": "1.0.0",
+  "description": "SendGrid.Design primitives for SendGrid design primitives",
+  "main": "base.json",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/src/sg-dot-design",
+  "keywords": [
+    "primitives",
+    "sendgrid-dot-design",
+    "variables",
+    "design-system"
+  ],
+  "author": "Team UI/UX <team-uiux@sendgrid.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendgrid/design-primitives"
+  },
+  "homepage": "https://github.com/sendgrid/design-primitives#readme",
+  "dependencies": {
+    "sg-colors": "^1.0.0",
+    "sg-spacing": "^1.0.0",
+    "sg-typography": "^1.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sg-colors",
+  "version": "1.0.0",
+  "description": "Color primitives for SendGrid design primitives",
+  "main": "colors.json",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/src/sg-colors",
+  "keywords": [
+    "primitives",
+    "colors",
+    "variables",
+    "design-system"
+  ],
+  "author": "Team UI/UX <team-uiux@sendgrid.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendgrid/design-primitives"
+  },
+  "homepage": "https://github.com/sendgrid/design-primitives#readme"
+}
