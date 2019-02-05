@@ -1,5 +1,5 @@
 {
-  "name": "sg-typography",
+  "name": "@sendgrid/sg-typography",
   "version": "1.0.0",
   "description": "Typography primitives for SendGrid design primitives",
   "main": "typography.json",
