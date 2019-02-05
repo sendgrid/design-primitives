@@ -2,6 +2,7 @@
   "imports": [
     "./base/borders.json",
     "./base/colors.json",
+    "./base/div.json",
     "./base/dropzones.json",
     "./base/filters.json",
     "./base/header-tabs.json",

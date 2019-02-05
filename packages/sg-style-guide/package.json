@@ -1,5 +1,5 @@
 {
-  "name": "@sendgrid/design-primitives/sg-style-guide",
+  "name": "sg-style-guide",
   "version": "1.0.0",
   "description": "Style Guide primitives for SendGrid design primitives",
   "main": "base.json",

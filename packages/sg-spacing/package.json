@@ -1,5 +1,5 @@
 {
-  "name": "@sendgrid/design-primitives/sg-spacing",
+  "name": "sg-spacing",
   "version": "1.0.0",
   "description": "Spacing primitives for SendGrid design primitives",
   "main": "spacing.json",

@@ -1,0 +1,34 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "div"
+  },
+  "props": {
+    "div-border-width": {
+      "value": "1px",
+      "type": "number"
+    },
+    "div-border-color": {
+      "value": "{!slate-10}",
+      "type": "color/hex"
+    },
+    "div-border-color-dark": {
+      "value": "{!slate-20}",
+      "type": "color/hex"
+    },
+    "div-border-solid": {
+      "value": "solid",
+      "type": "border"
+    },
+    "div-border-dashed": {
+      "value": "dashed",
+      "type": "border"
+    },
+    "div-border-radius": {
+      "value": "2px",
+      "type": "number"
+    }
+  }
+}

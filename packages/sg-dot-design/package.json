@@ -1,5 +1,5 @@
 {
-  "name": "@sendgrid/design-primitives/sg-dot-design",
+  "name": "sg-dot-design",
   "version": "1.0.0",
   "description": "SendGrid.Design primitives for SendGrid design primitives",
   "main": "base.json",
