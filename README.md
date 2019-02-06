@@ -15,7 +15,7 @@ This package is currently only being used for [SendGrid.design](https://sendgrid
 
 ### Installation
 ```sh
-npm install @sendgrid/design-primitives --save-dev
+npm install @sendgrid/design-primitives --save
 ```
 
 ## Usage
