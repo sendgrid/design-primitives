@@ -1,0 +1,12 @@
+0 silly argv { _: [ 'list' ],
+0 silly argv   lernaVersion: '3.10.7',
+0 silly argv   '$0': '/usr/local/bin/lerna' }
+1 notice cli v3.10.7
+2 verbose rootPath /Users/rbachman/Sites/design-primitives
+3 info versioning independent
+4 error Error: Invalid package name "@sendgrid/design-primitives/sg-colors": name can only contain URL-friendly characters
+4 error     at invalidPackageName (/usr/local/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:82:15)
+4 error     at Result.setName (/usr/local/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:118:11)
+4 error     at new Result (/usr/local/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:107:23)
+4 error     at Function.resolve (/usr/local/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:54:15)
+4 error     at new Package (/usr/local/lib/node_modules/lerna/node_modules/@lerna/package/index.js:36:26)

@@ -1,7 +1,7 @@
 {
   "imports": [
-    "../../common/colors.json",
-    "../../common/typography.json"
+    "../../sg-colors/colors.json",
+    "../../sg-typography/typography.json"
   ],
   "aliases": {
     "font-path": "\"../fonts\"",

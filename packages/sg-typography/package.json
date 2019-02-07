@@ -1,0 +1,19 @@
+{
+  "name": "@sendgrid/sg-typography",
+  "version": "1.0.0",
+  "description": "Typography primitives for SendGrid design primitives",
+  "main": "typography.json",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/src/sg-typography",
+  "keywords": [
+    "primitives",
+    "typography",
+    "variables",
+    "design-system"
+  ],
+  "author": "Team UI/UX <team-uiux@sendgrid.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendgrid/design-primitives"
+  },
+  "homepage": "https://github.com/sendgrid/design-primitives#readme"
+}

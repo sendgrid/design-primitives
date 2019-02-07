@@ -1,7 +1,8 @@
 {
   "name": "@sendgrid/design-primitives",
   "version": "1.0.0",
-  "description": "SendGrid design primatives",
+  "description": "SendGrid design primitives",
+  "repository": "https://github.com/sendgrid/design-primitives",
   "scripts": {
     "tokens": "gulp"
   },
@@ -16,6 +17,7 @@
     "gulp": "^4.0.0",
     "gulp-jsonlint": "^1.2.2",
     "gulp-theo": "^2.0.0",
+    "lerna": "^3.10.7",
     "lodash": "^4.17.11",
     "theo": "^8.0.1"
   }
