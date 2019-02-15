@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Style Guide primitives for SendGrid design primitives",
   "main": "base.json",
-  "repository": "https://github.com/sendgrid/design-primitives/tree/master/src/sg-style-guide",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/sg-style-guide",
   "keywords": [
     "primitives",
     "style-guide",
