@@ -1,6 +1,7 @@
 {
   "imports": [
     "../../sg-colors/colors.json",
+    "../../sg-spacing/spacing.json",
     "../../sg-typography/typography.json"
   ],
   "aliases": {

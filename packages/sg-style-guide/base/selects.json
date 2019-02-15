@@ -13,7 +13,7 @@
     "select2-disabled-border": {
       "value": "rgba({!steel}, 0.4)"
     },
-    "select2-disabled-placholder": {
+    "select2-disabled-placeholder": {
       "value": "rgba({!steel}, 0.4)"
     },
     "select2-disabled-arrow": {

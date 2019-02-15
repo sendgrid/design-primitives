@@ -1,0 +1,22 @@
+{
+  "aliases": {
+    "xs": {
+      "value": "9px"
+    },
+    "sm": {
+      "value": "12px"
+    },
+    "md": {
+      "value": "20px"
+    },
+    "lg": {
+      "value": "30px"
+    },
+    "xl": {
+      "value": "45px"
+    },
+    "xxl": {
+      "value": "60px"
+    }
+  }
+}
