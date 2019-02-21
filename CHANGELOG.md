@@ -6,21 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.2.0] - 2018-02-21
-### Changed
-- Fixed some typos
-
+## [1.1.1] - 2018-02-21
 ### Added
 - Initial icons package (not usable yet)
 
-## [1.1.0] - 2018-02-04
 ### Changed
-- JSON structure for SendGrid.design
+- Fixed some typos
 
+### Fixed
+- Lerna setup
+
+## [1.1.0] - 2018-02-04
 ### Added
 - JSON primitives color, typography, spacing, sg-dot-design, sg-style-guide
 - Lerna
 - More token file type options
+
+### Removed
+- JSON structure for SendGrid.design
 
 ## [1.0.0] - 2017-06-20
 ### Added
