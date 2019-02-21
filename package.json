@@ -1,11 +1,11 @@
 {
   "name": "@sendgrid/design-primitives",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "SendGrid design primitives",
   "repository": "https://github.com/sendgrid/design-primitives",
   "scripts": {
     "tokens": "gulp",
-    "deploy": "yarn tokens && lerna publish",
+    "deploy": "yarn tokens && lerna publish && npm publish",
     "deploy:force": "yarn tokens && lerna publish --force-publish=*"
   },
   "author": "Team UI/UX <team-uiux@sendgrid.com>",
