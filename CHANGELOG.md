@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.1.0] - 2018-02-04
 ### Added
 - JSON primitives color, typography, spacing, sg-dot-design, sg-style-guide
-- Lerna
+- Added Lerna
 - More token file type options
 
 ### Removed
