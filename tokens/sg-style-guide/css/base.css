@@ -68,6 +68,7 @@
 --dropdown-menu-z-index: 1000;
 --dropzone-bg: #fbfbfc;
 --dropzone-bg-active: #f4f6f7;
+--dropzone-border: #d4dadf;
 --dropzone-border-active: #7f90a0;
 --dropzone-hovered-bg: #e7f9f0;
 --dropzone-hovered-border: #18c96e;
@@ -207,7 +208,7 @@
 --select-disabled-color: rgba(#9e9e9e, 0.4);
 --select-2-disabled-arrow: rgba(#9e9e9e, 0.4);
 --select-2-disabled-border: rgba(#9e9e9e, 0.4);
---select-2-disabled-placholder: rgba(#9e9e9e, 0.4);
+--select-2-disabled-placeholder: rgba(#9e9e9e, 0.4);
 --spacing-lg: 30px;
 --spacing-md: 20px;
 --spacing-sm: 12px;

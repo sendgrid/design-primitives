@@ -67,6 +67,7 @@ export const divBorderWidth = "1px";
 export const dropdownMenuZIndex = "1000";
 export const dropzoneBg = "#fbfbfc";
 export const dropzoneBgActive = "#f4f6f7";
+export const dropzoneBorder = "#d4dadf";
 export const dropzoneBorderActive = "#7f90a0";
 export const dropzoneHoveredBg = "#e7f9f0";
 export const dropzoneHoveredBorder = "#18c96e";
@@ -206,7 +207,7 @@ export const segmentTermMaxWidth = "768px";
 export const selectDisabledColor = "rgba(#9e9e9e, 0.4)";
 export const select2DisabledArrow = "rgba(#9e9e9e, 0.4)";
 export const select2DisabledBorder = "rgba(#9e9e9e, 0.4)";
-export const select2DisabledPlacholder = "rgba(#9e9e9e, 0.4)";
+export const select2DisabledPlaceholder = "rgba(#9e9e9e, 0.4)";
 export const spacingLg = "30px";
 export const spacingMd = "20px";
 export const spacingSm = "12px";
@@ -299,6 +300,7 @@ divBorderWidth,
 export const dropzones = {
 dropzoneBg,
 dropzoneBgActive,
+dropzoneBorder,
 dropzoneBorderActive,
 dropzoneHoveredBg,
 dropzoneHoveredBorder,
@@ -441,7 +443,7 @@ export const selects = {
 selectDisabledColor,
 select2DisabledArrow,
 select2DisabledBorder,
-select2DisabledPlacholder,
+select2DisabledPlaceholder,
 };
 export const spacing = {
 spacingLg,
