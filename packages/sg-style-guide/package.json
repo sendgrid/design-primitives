@@ -1,6 +1,6 @@
 {
   "name": "@sendgrid/sg-style-guide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Style Guide primitives for SendGrid design primitives",
   "main": "base.json",
   "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/sg-style-guide",

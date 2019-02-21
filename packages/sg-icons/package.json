@@ -1,6 +1,6 @@
 {
   "name": "@sendgrid/sg-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Icon primitives for SendGrid design primitives",
   "main": "colors.json",
   "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/sg-icons",
