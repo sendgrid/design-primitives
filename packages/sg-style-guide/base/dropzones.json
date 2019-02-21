@@ -13,6 +13,9 @@
     "dropzone-bg-active": {
       "value": "{!slate-05}"
     },
+    "dropzone-border": {
+      "value": "{!slate-20}"
+    },
     "dropzone-border-active": {
       "value": "{!slate-60}"
     },

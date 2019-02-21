@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Typography primitives for SendGrid design primitives",
   "main": "typography.json",
-  "repository": "https://github.com/sendgrid/design-primitives/tree/master/src/sg-typography",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/sg-typography",
   "keywords": [
     "primitives",
     "typography",

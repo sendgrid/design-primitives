@@ -58,6 +58,12 @@ export const colorSteel = "#9e9e9e";
 export const colorWhite = "#fff";
 export const colorWildStrawberry = "#ff4081";
 export const compareBorderColor = "#e9ecef";
+export const divBorderColor = "#e9ecef";
+export const divBorderColorDark = "#d4dadf";
+export const divBorderDashed = "dashed";
+export const divBorderRadius = "2px";
+export const divBorderSolid = "solid";
+export const divBorderWidth = "1px";
 export const dropdownMenuZIndex = "1000";
 export const dropzoneBg = "#fbfbfc";
 export const dropzoneBgActive = "#f4f6f7";
@@ -201,7 +207,13 @@ export const segmentTermMaxWidth = "768px";
 export const selectDisabledColor = "rgba(#9e9e9e, 0.4)";
 export const select2DisabledArrow = "rgba(#9e9e9e, 0.4)";
 export const select2DisabledBorder = "rgba(#9e9e9e, 0.4)";
-export const select2DisabledPlacholder = "rgba(#9e9e9e, 0.4)";
+export const select2DisabledPlaceholder = "rgba(#9e9e9e, 0.4)";
+export const spacingLg = "30px";
+export const spacingMd = "20px";
+export const spacingSm = "12px";
+export const spacingXl = "45px";
+export const spacingXs = "9px";
+export const spacingXxl = "60px";
 export const spotlightCircleZIndex = "10000";
 export const spotlightTooltipZIndex = "10010";
 export const statsClicks = "#7b1fa2";
@@ -276,6 +288,14 @@ colorSpruce,
 colorSteel,
 colorWhite,
 colorWildStrawberry,
+};
+export const div = {
+divBorderColor,
+divBorderColorDark,
+divBorderDashed,
+divBorderRadius,
+divBorderSolid,
+divBorderWidth,
 };
 export const dropzones = {
 dropzoneBg,
@@ -423,7 +443,15 @@ export const selects = {
 selectDisabledColor,
 select2DisabledArrow,
 select2DisabledBorder,
-select2DisabledPlacholder,
+select2DisabledPlaceholder,
+};
+export const spacing = {
+spacingLg,
+spacingMd,
+spacingSm,
+spacingXl,
+spacingXs,
+spacingXxl,
 };
 export const switches = {
 switchBackgroundZIndex,

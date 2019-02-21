@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "SendGrid.Design primitives for SendGrid design primitives",
   "main": "base.json",
-  "repository": "https://github.com/sendgrid/design-primitives/tree/master/src/sg-dot-design",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/sg-dot-design",
   "keywords": [
     "primitives",
     "sendgrid-dot-design",

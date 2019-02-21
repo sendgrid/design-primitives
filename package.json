@@ -4,7 +4,9 @@
   "description": "SendGrid design primitives",
   "repository": "https://github.com/sendgrid/design-primitives",
   "scripts": {
-    "tokens": "gulp"
+    "tokens": "gulp",
+    "deploy": "yarn tokens && lerna publish",
+    "deploy:force": "yarn tokens && lerna publish --force-publish=*"
   },
   "author": "Team UI/UX <team-uiux@sendgrid.com>",
   "license": "ISC",

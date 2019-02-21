@@ -1,0 +1,34 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "category": "spacing"
+  },
+  "props": {
+    "spacing-xs": {
+      "value": "{!xs}",
+      "type": "number"
+    },
+    "spacing-sm": {
+      "value": "{!sm}",
+      "type": "number"
+    },
+    "spacing-md": {
+      "value": "{!md}",
+      "type": "number"
+    },
+    "spacing-lg": {
+      "value": "{!lg}",
+      "type": "number"
+    },
+    "spacing-xl": {
+      "value": "{!xl}",
+      "type": "number"
+    },
+    "spacing-xxl": {
+      "value": "{!xxl}",
+      "type": "number"
+    }
+  }
+}

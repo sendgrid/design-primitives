@@ -12,6 +12,7 @@
     "./base/loaders.json",
     "./base/scale.json",
     "./base/selects.json",
+    "./base/spacing.json",
     "./base/switches.json",
     "./base/tables.json",
     "./base/tooltips.json",
