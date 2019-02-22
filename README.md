@@ -5,9 +5,7 @@ Global design primitives/tokens to be used across SendGrid's products, stored as
 ## Packages
 
 * [sg-colors](https://github.com/sendgrid/design-primitives/tree/master/packages/sg-colors)
-* [sg-dot-design](https://github.com/sendgrid/design-primitives/tree/master/packages/sg-dot-design)
-* [sg-spacing](https://github.com/sendgrid/design-primitives/tree/master/packages/sg-spacing)
-* [sg-style-guide](https://github.com/sendgrid/design-primitives/tree/master/packages/sg-style-guide)
+* [sg-spacing](https://github.com/sendgrid/design-primitives/tree/master/packages/sg-spacing)\
 * [sg-typography](https://github.com/sendgrid/design-primitives/tree/master/packages/sg-typography)
 
 ## Current Usage
