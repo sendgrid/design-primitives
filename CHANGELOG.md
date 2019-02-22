@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.2] - 2018-02-22
+### Removed
+- sg-style-guide package removed
+- sg-dot-design package removed
+- sg-icons package removed
+
 ## [1.1.1] - 2018-02-21
 ### Added
 - Initial icons package (not usable yet)
