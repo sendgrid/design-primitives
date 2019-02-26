@@ -3,7 +3,55 @@
  * SendGrid Design Tokens
  * 
  */
+export const iconMailMulti = "\"\e954\"";
 export const borderRadius = "2px";
+export const btnDangerBadgeBg = "#fff";
+export const btnDangerBadgeColor = "#b71c1c";
+export const btnDangerBg = "rgba(#b71c1c, 0.8)";
+export const btnDangerBgHover = "#b71c1c";
+export const btnDangerBorder = "#b71c1c";
+export const btnDangerColor = "#fff";
+export const btnDarkBadgeBg = "#fff";
+export const btnDarkBadgeColor = "#294661";
+export const btnDarkBg = "transparent";
+export const btnDarkBgHover = "rgba(#fff, 0.1)";
+export const btnDarkBorder = "rgba(#fff, 0.6)";
+export const btnDarkColor = "#fff";
+export const btnDisabledBg = "#9e9e9e";
+export const btnDisabledBorder = "#9e9e9e";
+export const btnDisabledColor = "#fff";
+export const btnDisabledSecondaryBg = "#fff";
+export const btnDisabledSecondaryBorder = "#9e9e9e";
+export const btnDisabledSecondaryColor = "#9e9e9e";
+export const btnGearColor = "#7f90a0";
+export const btnGearPrimaryColor = "#fff";
+export const btnGroupBg = "#fff";
+export const btnGroupBgActive = "#489be8";
+export const btnGroupBgHover = "rgba(#1a82e2, 0.1)";
+export const btnGroupBorder = "rgba(#1a82e2, 0.8)";
+export const btnGroupBorderActive = "#1a82e2";
+export const btnGroupColor = "#1a82e2";
+export const btnGroupColorActive = "#fff";
+export const btnPrimaryBadgeBg = "#fff";
+export const btnPrimaryBadgeColor = "#1a82e2";
+export const btnPrimaryBg = "#489be8";
+export const btnPrimaryBgHover = "#1a82e2";
+export const btnPrimaryBorder = "#1a82e2";
+export const btnPrimaryColor = "#fff";
+export const btnSecondaryBadgeBg = "#1a82e2";
+export const btnSecondaryBadgeColor = "#fff";
+export const btnSecondaryBg = "#fff";
+export const btnSecondaryBgHover = "#e8f2fc";
+export const btnSecondaryBorder = "#489be8";
+export const btnSecondaryColor = "#1a82e2";
+export const btnSelectableBorder = "#d1e6f9";
+export const btnSelectableBorderActive = "#1a82e2";
+export const btnSelectableBorderHover = "#a3cdf3";
+export const btnSelectableColor = "#546b81";
+export const btnTertiaryBadgeBg = "#546b81";
+export const btnTertiaryBg = "#fff";
+export const btnTertiaryColor = "#546b81";
+export const btnTertiaryColorHover = "#294661";
 export const colfax = "\"Colfax\", Helvetica, Arial, sans-serif";
 export const colfaxBold = "\"Colfax-Bold\", Helvetica, Arial, sans-serif";
 export const colfaxLight = "\"Colfax-Light\", Helvetica, Arial, sans-serif";
@@ -90,6 +138,7 @@ export const iconCheckCircle = "\"\e907\"";
 export const iconCheckShield = "\"\e93f\"";
 export const iconCheckThin = "\"\e938\"";
 export const iconCleanUi = "\"\e916\"";
+export const iconClearFormatting = "\"\e956\"";
 export const iconClick = "\"\e93b\"";
 export const iconClock = "\"\e90d\"";
 export const iconCloudQuestion = "\"\e93c\"";
@@ -113,6 +162,7 @@ export const iconEditorDesign = "\"\e935\"";
 export const iconEditorOld = "\"\e933\"";
 export const iconEllipsis = "\"\e90e\"";
 export const iconEllipsisVertical = "\"\e93a\"";
+export const iconFilter = "\"\e955\"";
 export const iconForms = "\"\e94f\"";
 export const iconGear = "\"\e608\"";
 export const iconHelp = "\"\e932\"";
@@ -223,6 +273,9 @@ export const statsSpamReports = "#b71c1c";
 export const statsUniqueClicks = "#7c4dff";
 export const statsUniqueOpens = "#2196f3";
 export const statsUnsubscribes = "#880e4f";
+export const statsValidationInvalid = "#b71c1c";
+export const statsValidationRisky = "#f90";
+export const statsValidationValid = "#8ac24a";
 export const switchBackgroundZIndex = "10";
 export const switchOptionZIndex = "12";
 export const switchSelectorZIndex = "11";
@@ -237,6 +290,55 @@ export const tooltipFontSize = "12px";
 export const tooltipLineHeight = "18px";
 export const borders = {
 borderRadius,
+};
+export const buttons = {
+btnDangerBadgeBg,
+btnDangerBadgeColor,
+btnDangerBg,
+btnDangerBgHover,
+btnDangerBorder,
+btnDangerColor,
+btnDarkBadgeBg,
+btnDarkBadgeColor,
+btnDarkBg,
+btnDarkBgHover,
+btnDarkBorder,
+btnDarkColor,
+btnDisabledBg,
+btnDisabledBorder,
+btnDisabledColor,
+btnDisabledSecondaryBg,
+btnDisabledSecondaryBorder,
+btnDisabledSecondaryColor,
+btnGearColor,
+btnGearPrimaryColor,
+btnGroupBg,
+btnGroupBgActive,
+btnGroupBgHover,
+btnGroupBorder,
+btnGroupBorderActive,
+btnGroupColor,
+btnGroupColorActive,
+btnPrimaryBadgeBg,
+btnPrimaryBadgeColor,
+btnPrimaryBg,
+btnPrimaryBgHover,
+btnPrimaryBorder,
+btnPrimaryColor,
+btnSecondaryBadgeBg,
+btnSecondaryBadgeColor,
+btnSecondaryBg,
+btnSecondaryBgHover,
+btnSecondaryBorder,
+btnSecondaryColor,
+btnSelectableBorder,
+btnSelectableBorderActive,
+btnSelectableBorderHover,
+btnSelectableColor,
+btnTertiaryBadgeBg,
+btnTertiaryBg,
+btnTertiaryColor,
+btnTertiaryColorHover,
 };
 export const colors = {
 colorAlertDanger,
@@ -313,6 +415,7 @@ headerTabsBorderColor,
 headerTabsHover,
 };
 export const icons = {
+iconMailMulti,
 iconAirplane,
 iconAirplaneFill,
 iconAlignCenter,
@@ -329,6 +432,7 @@ iconCheckCircle,
 iconCheckShield,
 iconCheckThin,
 iconCleanUi,
+iconClearFormatting,
 iconClick,
 iconClock,
 iconCloudQuestion,
@@ -352,6 +456,7 @@ iconEditorDesign,
 iconEditorOld,
 iconEllipsis,
 iconEllipsisVertical,
+iconFilter,
 iconForms,
 iconGear,
 iconHelp,
@@ -452,6 +557,11 @@ spacingSm,
 spacingXl,
 spacingXs,
 spacingXxl,
+};
+export const stats = {
+statsValidationInvalid,
+statsValidationRisky,
+statsValidationValid,
 };
 export const switches = {
 switchBackgroundZIndex,

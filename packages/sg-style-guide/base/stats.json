@@ -1,0 +1,41 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "type": "color/hex",
+    "category": "stats"
+  },
+  "props": {
+    "stats-delivered": {
+      "value": "{!grass-stain}"
+    },
+    "stats-opens": {
+      "value": "{!cobalt}"
+    },
+    "stats-unique-opens": {
+      "value": "{!bluebird}"
+    },
+    "stats-clicks": {
+      "value": "{!crown}"
+    },
+    "stats-unique-clicks": {
+      "value": "{!screample}"
+    },
+    "stats-unsubscribes": {
+      "value": "{!sangria}"
+    },
+    "stats-spam-reports": {
+      "value": "{!ron-burgundy}"
+    },
+    "stats-validation-valid": {
+      "value": "{!grass-stain}"
+    },
+    "stats-validation-risky": {
+      "value": "{!carrot}"
+    },
+    "stats-validation-invalid": {
+      "value": "{!ron-burgundy}"
+    }
+  }
+}

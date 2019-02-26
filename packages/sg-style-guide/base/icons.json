@@ -52,6 +52,9 @@
     "icon-clean-ui": {
       "value": "\"\\e916\""
     },
+    "icon-clear-formatting": {
+      "value": "\"\\e956\""
+    },
     "icon-click": {
       "value": "\"\\e93b\""
     },
@@ -121,6 +124,9 @@
     "icon-ellipsis-vertical": {
       "value": "\"\\e93a\""
     },
+    "icon-filter": {
+      "value": "\"\\e955\""
+    },
     "icon-forms": {
       "value": "\"\\e94f\""
     },
@@ -156,6 +162,9 @@
     },
     "icon-mail": {
       "value": "\"\\e61d\""
+    },
+    "$icon-mail-multi": {
+      "value": "\"\\e954\""
     },
     "icon-mail-search": {
       "value": "\"\\e92d\""
