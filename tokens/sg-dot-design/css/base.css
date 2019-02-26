@@ -21,7 +21,14 @@
 --color-design-red: #880E4F;
 --color-design-teal: #00BCD4;
 --color-design-violet: #7C4DFF;
---color-design-yellow: #FDD835;
+--color-design-yellow: #E8A600;
+--color-slate: #294661;
+--color-slate-05: #f4f6f7;
+--color-slate-20: #d4dadf;
+--color-slate-40: #a9b5c0;
+--color-slate-60: #7f90a0;
+--color-slate-80: #546b81;
+--color-white: #fff;
 --font-base-font-size: 20px;
 --font-base-line-height: 35px;
 }

@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.5] - 2018-02-26
+### Added
+- Slate colors to sg-dot-design package.
+
+### Changed
+- design-yellow hex color changed to #E8A600 in sg-colors package.
+
 ## [1.1.4] - 2018-02-26
 ### Added
 - Added stats tokens
