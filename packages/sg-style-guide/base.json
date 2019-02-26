@@ -1,6 +1,7 @@
 {
   "imports": [
     "./base/borders.json",
+    "./base/buttons.json",
     "./base/colors.json",
     "./base/div.json",
     "./base/dropzones.json",
@@ -13,6 +14,7 @@
     "./base/scale.json",
     "./base/selects.json",
     "./base/spacing.json",
+    "./base/stats.json",
     "./base/switches.json",
     "./base/tables.json",
     "./base/tooltips.json",

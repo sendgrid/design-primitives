@@ -52,6 +52,9 @@
     "icon-clean-ui": {
       "value": "\"\\e916\""
     },
+    "icon-clear-formatting": {
+      "value": "\"\\e956\""
+    },
     "icon-click": {
       "value": "\"\\e93b\""
     },
@@ -156,6 +159,9 @@
     },
     "icon-mail": {
       "value": "\"\\e61d\""
+    },
+    "$icon-mail-multi": {
+      "value": "\"\\e954\""
     },
     "icon-mail-search": {
       "value": "\"\\e92d\""
