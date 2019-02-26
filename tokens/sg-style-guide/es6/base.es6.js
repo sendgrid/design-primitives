@@ -162,6 +162,7 @@ export const iconEditorDesign = "\"\e935\"";
 export const iconEditorOld = "\"\e933\"";
 export const iconEllipsis = "\"\e90e\"";
 export const iconEllipsisVertical = "\"\e93a\"";
+export const iconFilter = "\"\e955\"";
 export const iconForms = "\"\e94f\"";
 export const iconGear = "\"\e608\"";
 export const iconHelp = "\"\e932\"";
@@ -455,6 +456,7 @@ iconEditorDesign,
 iconEditorOld,
 iconEllipsis,
 iconEllipsisVertical,
+iconFilter,
 iconForms,
 iconGear,
 iconHelp,

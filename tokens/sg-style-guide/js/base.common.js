@@ -164,6 +164,7 @@ module.exports = {
   iconEditorOld: "\"\e933\"",
   iconEllipsis: "\"\e90e\"",
   iconEllipsisVertical: "\"\e93a\"",
+  iconFilter: "\"\e955\"",
   iconForms: "\"\e94f\"",
   iconGear: "\"\e608\"",
   iconHelp: "\"\e932\"",
