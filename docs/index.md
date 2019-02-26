@@ -5,7 +5,7 @@ The JSON is meant to be used as a source of truth for basic styles used to compo
 The JSON data can be consumed in a number of different methods. Tokens are generated using [Theo](https://github.com/salesforce-ux/theo).
 
 ### Sections
-* [Project Structure](#project_structure)
+* [Project Structure](#project-structure)
 * [Adding New Primitives](#adding-new-primitives)
 * [Generating Tokens](#generating-tokens)
 * [Depoying](#deploying)
