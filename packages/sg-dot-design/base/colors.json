@@ -7,6 +7,27 @@
     "category": "colors"
   },
   "props": {
+    "color-slate": {
+      "value": "{!slate}"
+    },
+    "color-slate-80": {
+      "value": "{!slate-80}"
+    },
+    "color-slate-60": {
+      "value": "{!slate-60}"
+    },
+    "color-slate-40": {
+      "value": "{!slate-40}"
+    },
+    "color-slate-20": {
+      "value": "{!slate-20}"
+    },
+    "color-slate-05": {
+      "value": "{!slate-05}"
+    },
+    "color-white": {
+      "value": "{!white}"
+    },
     "color-code-purple": {
       "value": "{!code-purple}"
     },

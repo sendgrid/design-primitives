@@ -22,7 +22,14 @@ module.exports = {
   colorDesignRed: "#880E4F",
   colorDesignTeal: "#00BCD4",
   colorDesignViolet: "#7C4DFF",
-  colorDesignYellow: "#FDD835",
+  colorDesignYellow: "#E8A600",
+  colorSlate: "#294661",
+  colorSlate05: "#f4f6f7",
+  colorSlate20: "#d4dadf",
+  colorSlate40: "#a9b5c0",
+  colorSlate60: "#7f90a0",
+  colorSlate80: "#546b81",
+  colorWhite: "#fff",
   fontBaseFontSize: "20px",
   fontBaseLineHeight: "35px"
 };
