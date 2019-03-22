@@ -1,8 +1,8 @@
 {
   "imports": [
-    "../../sg-colors/colors.json",
-    "../../sg-spacing/spacing.json",
-    "../../sg-typography/typography.json"
+    "../../design-colors/colors.json",
+    "../../design-spacing/spacing.json",
+    "../../design-typography/typography.json"
   ],
   "aliases": {
     "font-path": "\"../fonts\"",

@@ -1,7 +1,7 @@
 {
   "imports": [
-    "../../sg-colors/colors.json",
-    "../../sg-typography/typography.json"
+    "../../design-colors/colors.json",
+    "../../design-typography/typography.json"
   ],
   "aliases": {
     "base-font-size": "20px",

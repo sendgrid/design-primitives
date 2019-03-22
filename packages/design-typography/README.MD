@@ -4,5 +4,5 @@ Typography primitives/tokens to be used across SendGrid's products, stored as js
 
 ### Installation
 ```sh
-npm install @sendgrid/sg-typography --save
+npm install @sendgrid/design-typography --save
 ```

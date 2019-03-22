@@ -21,9 +21,9 @@ The JSON data can be consumed in a number of different methods. Tokens are gener
 
 The project is broken down into three base packages and additional product packages. The three base packages are:
 
-* sg-colors
-* sg-spacing
-* sg-typography
+* design-colors
+* design-spacing
+* design-typography
 
 Colors, spacing, and typography are versioned separately of the main package, and can also be used individually as stand alone JSON.
 
@@ -62,7 +62,7 @@ Adding a new primitive is a fairly simple process. The basic flow:
 The base packages are set up in a simple JSON object format. New primitives shoudl follow the following format
 
 ```JSON
-"sg-blue": "#1a82e2"
+"blue": "#1a82e2"
 ```
 
 The product packages are a littl more complex. These include a `base.json` file which imports additional JSON files. These additional JSON files contain the primitive that packages as well as import the base primitive packages.
@@ -72,8 +72,8 @@ The product packages are a littl more complex. These include a `base.json` file 
 ```JSON
 {
   "imports": [
-    "../../sg-colors/colors.json",
-    "../../sg-typography/typography.json"
+    "../../design-colors/colors.json",
+    "../../design-typography/typography.json"
   ],
   "aliases": {
     "base-font-size": "20px",
@@ -128,16 +128,16 @@ Deploying and versioning is handled through NPM and Lerna with the following Nod
 The following packages will deployed using that script:
 
 * @sendgrid/design-primitives
-* @sendgrid/sg-colors
-* @sendgrid/sg-spacing
-* @sendgrid/sg-typography
+* @sendgrid/design-colors
+* @sendgrid/design-spacing
+* @sendgrid/design-typography
 
 ## Using Tokens
 
 ### Sass:
 
 ```scss
-@import '@sendgrid/design-primitives/tokens/sg-styleguide/scss/base.scss';
+@import '@sendgrid/design-primitives/tokens/sg-style-guide/scss/base.scss';
 
 .my-selector {
   color: $color-slate-20;
@@ -147,7 +147,7 @@ The following packages will deployed using that script:
 ### CSS:
 
 ```css
-@import '@sendgrid/design-primitives/tokens/sg-styleguide/css/base.css';
+@import '@sendgrid/design-primitives/tokens/sg-style-guide/css/base.css';
 
 .my-selector {
   color: var(--color-slate-20);
@@ -158,32 +158,32 @@ The following packages will deployed using that script:
 
 ```js
 // Individual tokens
-import { colfax } from '@sendgrid/design-primitives/tokens/sg-styleguide/es6/base.es6';
+import { colfax } from '@sendgrid/design-primitives/tokens/sg-style-guide/es6/base.es6';
 
 console.log(colfax);
 
 // Token category
-import { colors } from '@sendgrid/design-primitives/tokens/sg-styleguide/es6/base.es6';
+import { colors } from '@sendgrid/design-primitives/tokens/sg-style-guide/es6/base.es6';
 
 console.log(colors.colorCodePurple);
 
 // All tokens
-import * as tokens from '@sendgrid/design-primitives/tokens/sg-styleguide/es6/base.es6';
+import * as tokens from '@sendgrid/design-primitives/tokens/sg-style-guide/es6/base.es6';
 ```
 
 ### JavaScript (CommonJS):
 
 ```js
 // Individual tokens
-import { colfax } from '@sendgrid/design-primitives/tokens/sg-styleguide/common/base.common';
+import { colfax } from '@sendgrid/design-primitives/tokens/sg-style-guide/common/base.common';
 
 console.log(colfax);
 
 // Token category
-import { colors } from '@sendgrid/design-primitives/tokens/sg-styleguide/common/base.common';
+import { colors } from '@sendgrid/design-primitives/tokens/sg-style-guide/common/base.common';
 
 console.log(colors.colorCodePurple);
 
 // All tokens
-import * as tokens from '@sendgrid/design-primitives/tokens/sg-styleguide/common/base.common';
+import * as tokens from '@sendgrid/design-primitives/tokens/sg-style-guide/common/base.common';
 ```

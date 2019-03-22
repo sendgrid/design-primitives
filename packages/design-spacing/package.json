@@ -1,12 +1,12 @@
 {
-  "name": "@sendgrid/sg-typography",
+  "name": "@sendgrid/design-spacing",
   "version": "1.0.1",
-  "description": "Typography primitives for SendGrid design primitives",
-  "main": "typography.json",
-  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/sg-typography",
+  "description": "Spacing primitives for SendGrid design primitives",
+  "main": "spacing.json",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/design-spacing",
   "keywords": [
     "primitives",
-    "typography",
+    "spacing",
     "variables",
     "design-system"
   ],
