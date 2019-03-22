@@ -4,5 +4,5 @@ Spacing primitives/tokens to be used across SendGrid's products, stored as json 
 
 ### Installation
 ```sh
-npm install @sendgrid/sg-spacing --save
+npm install @sendgrid/design-spacing --save
 ```

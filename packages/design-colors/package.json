@@ -1,12 +1,12 @@
 {
-  "name": "@sendgrid/sg-typography",
-  "version": "1.0.1",
-  "description": "Typography primitives for SendGrid design primitives",
-  "main": "typography.json",
-  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/sg-typography",
+  "name": "@sendgrid/design-colors",
+  "version": "1.0.0",
+  "description": "Color primitives for SendGrid design primitives",
+  "main": "colors.json",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/design-colors",
   "keywords": [
     "primitives",
-    "typography",
+    "colors",
     "variables",
     "design-system"
   ],

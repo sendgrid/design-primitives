@@ -1,12 +1,12 @@
 {
-  "name": "@sendgrid/sg-colors",
-  "version": "1.0.2",
-  "description": "Color primitives for SendGrid design primitives",
-  "main": "colors.json",
-  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/sg-colors",
+  "name": "@sendgrid/design-spacing",
+  "version": "1.0.0",
+  "description": "Spacing primitives for SendGrid design primitives",
+  "main": "spacing.json",
+  "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/design-spacing",
   "keywords": [
     "primitives",
-    "colors",
+    "spacing",
     "variables",
     "design-system"
   ],

@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2018-03-22
+### Changed
+- Rename sg-colors package to design-colors.
+- Rename sg-spacing package to design-spacing.
+- Rename sg-typography package to design-typography.
+- Updated documentation to reflect changes.
+- Deprecated sg-colors, sg-spacing, and sg-typography.
+
 ## [1.1.5] - 2018-02-26
 ### Added
 - Slate colors to sg-dot-design package.

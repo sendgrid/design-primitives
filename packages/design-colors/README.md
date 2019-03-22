@@ -4,5 +4,5 @@ Color primitives/tokens to be used across SendGrid's products, stored as json da
 
 ### Installation
 ```sh
-npm install @sendgrid/sg-colors --save
+npm install @sendgrid/design-colors --save
 ```
