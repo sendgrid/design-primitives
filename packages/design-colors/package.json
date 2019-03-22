@@ -1,6 +1,6 @@
 {
   "name": "@sendgrid/design-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Color primitives for SendGrid design primitives",
   "main": "colors.json",
   "repository": "https://github.com/sendgrid/design-primitives/tree/master/packages/design-colors",
