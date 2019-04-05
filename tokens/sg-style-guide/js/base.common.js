@@ -234,7 +234,7 @@ module.exports = {
   modalBg: "rgba(#000, 0.5)",
   modalBodyHeight: "454px",
   modalCenterBg: "#fff",
-  modalCenterPosition: "300px",
+  modalCenterPosition: "-300px",
   modalCenterWidth: "600px",
   modalFooterHeight: "71px",
   modalHeight: "665px",

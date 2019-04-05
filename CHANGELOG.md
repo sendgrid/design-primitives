@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.1] - 2018-04-05
+### Changed
+- Fixed modal center position variable.
+
 ## [1.2.0] - 2018-03-22
 ### Changed
 - Rename sg-colors package to design-colors.

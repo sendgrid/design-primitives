@@ -43,7 +43,7 @@
       "type": "number"
     },
     "modal-center-position": {
-      "value": "300px",
+      "value": "-300px",
       "type": "number"
     }
   }
