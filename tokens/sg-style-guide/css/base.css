@@ -233,7 +233,7 @@
 --modal-bg: rgba(#000, 0.5);
 --modal-body-height: 454px;
 --modal-center-bg: #fff;
---modal-center-position: 300px;
+--modal-center-position: -300px;
 --modal-center-width: 600px;
 --modal-footer-height: 71px;
 --modal-height: 665px;
