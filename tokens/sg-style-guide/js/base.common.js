@@ -102,7 +102,7 @@ module.exports = {
   colorSlate40: "#a9b5c0",
   colorSlate60: "#7f90a0",
   colorSlate80: "#546b81",
-  colorSlateDark05: "#16452d",
+  colorSlateDark05: "#21394f",
   colorSpruce: "#4cb04f",
   colorSteel: "#9e9e9e",
   colorWhite: "#fff",
