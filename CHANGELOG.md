@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.2] - 2018-04-08
+### Changed
+- Fixed color-slate-dark-05 variable.
+
 ## [1.2.1] - 2018-04-05
 ### Changed
 - Fixed modal center position variable.
