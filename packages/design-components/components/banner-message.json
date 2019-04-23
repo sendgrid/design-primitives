@@ -1,0 +1,50 @@
+{
+  "imports": [
+    "../aliases.json"
+  ],
+  "global": {
+    "category": "banner-message"
+  },
+  "props": {
+    "banner-message-display": {
+      "value": "inline-block",
+      "type": "display"
+    },
+    "banner-message-font-size": {
+      "value": "{!scale-base-up-01}",
+      "type": "number"
+    },
+    "banner-message-padding": {
+      "value": "{!scale-base-down-01} {!scale-base}",
+      "type": "number"
+    },
+    "banner-message-text-align": {
+      "value": "left",
+      "type": "alignment"
+    },
+    "banner-message-border-width": {
+      "value": "2px",
+      "type": "number"
+    },
+    "banner-message-border-type": {
+      "value": "solid",
+      "type": "border"
+    },
+    "banner-message-info-border-color": {
+      "value": "{!sg-blue}",
+      "type": "color"
+    },
+    "banner-message-info-background": {
+      "value": "rgba(26, 130, 226, 0.05)",
+      "type": "color"
+    },
+    "banner-message-beta-border-color": {
+      "value": "{!screample}",
+      "type": "color"
+    },
+    "banner-message-beta-background": {
+      "value": "rgba(124, 77, 255, 0.05)",
+      "type": "color"
+    }
+  }
+}

@@ -25,6 +25,15 @@ gulp.task('lint', (done) => {
     done();
 });
 
+gulp.task('components:tokens:es6js', () =>
+  gulp.src('packages/design-components/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'es6.js' },
+    }))
+    .pipe(gulp.dest('tokens/design-components/es6'))
+);
+
 gulp.task('styleguide:tokens:scss', () =>
   gulp.src('packages/sg-style-guide/base.json')
     .pipe(gulpTheo({
@@ -112,6 +121,7 @@ gulp.task('default',
       'dotdesign:tokens:css',
       'dotdesign:tokens:es6js',
       'dotdesign:tokens:commonjs',
+      'components:tokens:es6js',
     )
   )
 );
