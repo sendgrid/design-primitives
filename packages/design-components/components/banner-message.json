@@ -22,6 +22,10 @@
       "value": "left",
       "type": "alignment"
     },
+    "banner-message-background-color": {
+      "value": "rgba(26, 130, 226, 0.05)",
+      "type": "color"
+    },
     "banner-message-border-width": {
       "value": "2px",
       "type": "number"
@@ -30,12 +34,8 @@
       "value": "solid",
       "type": "border"
     },
-    "banner-message-info-border-color": {
+    "banner-message-border-color": {
       "value": "{!sg-blue}",
-      "type": "color"
-    },
-    "banner-message-info-background": {
-      "value": "rgba(26, 130, 226, 0.05)",
       "type": "color"
     },
     "banner-message-beta-border-color": {
