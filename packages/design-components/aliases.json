@@ -19,6 +19,7 @@
     "scale-base-up-10": "90px",
     "scale-base-down-01": "9px",
     "scale-base-down-02": "6px",
-    "scale-base-down-03": "3px"
+    "scale-base-down-03": "3px",
+    "border-radius": "2px"
   }
 }

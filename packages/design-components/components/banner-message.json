@@ -6,10 +6,6 @@
     "category": "banner-message"
   },
   "props": {
-    "banner-message-display": {
-      "value": "inline-block",
-      "type": "display"
-    },
     "banner-message-font-size": {
       "value": "{!scale-base-up-01}",
       "type": "number"
@@ -17,10 +13,6 @@
     "banner-message-padding": {
       "value": "{!scale-base-down-01} {!scale-base}",
       "type": "number"
-    },
-    "banner-message-text-align": {
-      "value": "left",
-      "type": "alignment"
     },
     "banner-message-background-color": {
       "value": "rgba(26, 130, 226, 0.05)",
@@ -36,13 +28,13 @@
     },
     "banner-message-border-color": {
       "value": "{!sg-blue}",
-      "type": "color"
+      "type": "color/hex"
     },
     "banner-message-beta-border-color": {
       "value": "{!screample}",
-      "type": "color"
+      "type": "color/hex"
     },
-    "banner-message-beta-background": {
+    "banner-message-beta-background-color": {
       "value": "rgba(124, 77, 255, 0.05)",
       "type": "color"
     }
