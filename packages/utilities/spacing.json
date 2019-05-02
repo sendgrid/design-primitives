@@ -1,0 +1,29 @@
+{
+  "imports": [
+    "../design-spacing/spacing.json"
+  ],
+  "global": {
+    "type": "number",
+    "category": "spacing"
+  },
+  "props": {
+    "spacing-xs": {
+      "value": "{!xs}"
+    },
+    "spacing-sm": {
+      "value": "{!sm}"
+    },
+    "spacing-md": {
+      "value": "{!md}"
+    },
+    "spacing-lg": {
+      "value": "{!lg}"
+    },
+    "spacing-xl": {
+      "value": "{!xl}"
+    },
+    "spacing-xxl": {
+      "value": "{!xxl}"
+    }
+  }
+}

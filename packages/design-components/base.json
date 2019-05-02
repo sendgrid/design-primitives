@@ -1,5 +1,7 @@
 {
   "imports": [
-    "./components/banner-message.json"
+    "./components/banner-message.json",
+    "./components/badge.json",
+    "../utilities/spacing.json"
   ]
 }

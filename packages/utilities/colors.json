@@ -1,6 +1,6 @@
 {
   "imports": [
-    "../aliases.json"
+    "../design-colors/colors.json"
   ],
   "global": {
     "type": "color/hex",
