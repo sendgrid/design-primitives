@@ -3,10 +3,6 @@
  * SendGrid Design Tokens
  * 
  */
-export const colfax = "\"Colfax\", Helvetica, Arial, sans-serif";
-export const colfaxBold = "\"Colfax-Bold\", Helvetica, Arial, sans-serif";
-export const colfaxLight = "\"Colfax-Light\", Helvetica, Arial, sans-serif";
-export const colfaxMedium = "\"Colfax-Medium\", Helvetica, Arial, sans-serif";
 export const colorCodeBlue = "#1A82E2";
 export const colorCodeGreen = "#18C96E";
 export const colorCodePurple = "#7C4DFF";
@@ -54,10 +50,6 @@ colorSlate80,
 colorWhite,
 };
 export const typesettings = {
-colfax,
-colfaxBold,
-colfaxLight,
-colfaxMedium,
 fontBaseFontSize,
 fontBaseLineHeight,
 };

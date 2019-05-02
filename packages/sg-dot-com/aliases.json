@@ -1,0 +1,7 @@
+{
+  "imports": [
+    "../design-colors/colors.json",
+    "../design-spacing/spacing.json",
+    "../design-typography/typography.json"
+  ]
+}

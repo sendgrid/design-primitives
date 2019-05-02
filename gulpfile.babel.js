@@ -79,6 +79,15 @@ gulp.task('styleguide:tokens:commonjs', () =>
     .pipe(gulp.dest('tokens/sg-style-guide/js'))
 );
 
+gulp.task('sgdotcom:tokens:es6js', () =>
+  gulp.src('packages/sg-dot-com/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'es6.js' },
+    }))
+    .pipe(gulp.dest('tokens/sg-dot-com/es6'))
+);
+
 gulp.task('dotdesign:tokens:scss', () =>
   gulp.src('packages/sg-dot-design/base.json')
     .pipe(gulpTheo({
@@ -132,6 +141,7 @@ gulp.task('default',
       'dotdesign:tokens:commonjs',
       'components:tokens:es6js',
       'components:tokens:scss',
+      'sgdotcom:tokens:es6js',
     )
   )
 );

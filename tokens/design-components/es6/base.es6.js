@@ -19,10 +19,6 @@ export const bannerMessageBorderType = "solid";
 export const bannerMessageBorderWidth = "2px";
 export const bannerMessageFontSize = "13px";
 export const bannerMessagePadding = "9px 12px";
-export const colfax = "\"Colfax\", Helvetica, Arial, sans-serif";
-export const colfaxBold = "\"Colfax-Bold\", Helvetica, Arial, sans-serif";
-export const colfaxLight = "\"Colfax-Light\", Helvetica, Arial, sans-serif";
-export const colfaxMedium = "\"Colfax-Medium\", Helvetica, Arial, sans-serif";
 export const colorAlertDanger = "#f4dddd";
 export const colorAlertDangerText = "#b71c1c";
 export const colorAlertSuccess = "#f1f7e9";
@@ -156,10 +152,4 @@ spacingSm,
 spacingXl,
 spacingXs,
 spacingXxl,
-};
-export const typesettings = {
-colfax,
-colfaxBold,
-colfaxLight,
-colfaxMedium,
 };

@@ -1,0 +1,23 @@
+{
+  "imports": [
+    "../design-typography/typography.json"
+  ],
+  "global": {
+    "type": "font",
+    "category": "typesettings"
+  },
+  "props": {
+    "colfax": {
+      "value": "{!colfax}"
+    },
+    "colfax-light": {
+      "value": "{!colfax-light}"
+    },
+    "colfax-medium": {
+      "value": "{!colfax-medium}"
+    },
+    "colfax-bold": {
+      "value": "{!colfax-bold}"
+    }
+  }
+}

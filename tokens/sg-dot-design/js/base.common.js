@@ -5,10 +5,6 @@
  */
 
 module.exports = {
-  colfax: "\"Colfax\", Helvetica, Arial, sans-serif",
-  colfaxBold: "\"Colfax-Bold\", Helvetica, Arial, sans-serif",
-  colfaxLight: "\"Colfax-Light\", Helvetica, Arial, sans-serif",
-  colfaxMedium: "\"Colfax-Medium\", Helvetica, Arial, sans-serif",
   colorCodeBlue: "#1A82E2",
   colorCodeGreen: "#18C96E",
   colorCodePurple: "#7C4DFF",
