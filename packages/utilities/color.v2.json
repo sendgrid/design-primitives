@@ -1,0 +1,197 @@
+{
+  "imports": [
+    "../design-colors/colors.v2.json"
+  ],
+  "global": {
+    "type": "color/hex",
+    "category": "color"
+  },
+  "props": {
+    "color-black": {
+      "value": "{!black}"
+    },
+    "color-white": {
+      "value": "{!white}"
+    },
+    "color-blue--lightest": {
+      "value": "{!blue--lightest}"
+    },
+    "color-blue--light": {
+      "value": "{!blue--light}"
+    },
+    "color-blue": {
+      "value": "{!blue}"
+    },
+    "color-blue--dark": {
+      "value": "{!blue--dark}"
+    },
+    "color-blue--darkest": {
+      "value": "{!blue--darkest}"
+    },
+    "color-turquoise--lightest": {
+      "value": "{!turquoise--lightest}"
+    },
+    "color-turquoise--light": {
+      "value": "{!turquoise--light}"
+    },
+    "color-turquoise": {
+      "value": "{!turquoise}"
+    },
+    "color-turquoise--dark": {
+      "value": "{!turquoise--dark}"
+    },
+    "color-turquoise--darkest": {
+      "value": "{!turquoise--darkest}"
+    },
+    "color-violet--lightest": {
+      "value": "{!violet--lightest}"
+    },
+    "color-violet--light": {
+      "value": "{!violet--light}"
+    },
+    "color-violet": {
+      "value": "{!violet}"
+    },
+    "color-violet--dark": {
+      "value": "{!violet--dark}"
+    },
+    "color-violet--darkest": {
+      "value": "{!violet--darkest}"
+    },
+    "color-purple--lightest": {
+      "value": "{!purple--lightest}"
+    },
+    "color-purple--light": {
+      "value": "{!purple--light}"
+    },
+    "color-purple": {
+      "value": "{!purple}"
+    },
+    "color-purple--dark": {
+      "value": "{!purple--dark}"
+    },
+    "color-purple--darkest": {
+      "value": "{!purple--darkest}"
+    },
+    "color-pink--lightest": {
+      "value": "{!pink--lightest}"
+    },
+    "color-pink--light": {
+      "value": "{!pink--light}"
+    },
+    "color-pink": {
+      "value": "{!pink}"
+    },
+    "color-pink--dark": {
+      "value": "{!pink--dark}"
+    },
+    "color-pink--darkest": {
+      "value": "{!pink--darkest}"
+    },
+    "color-red--lightest": {
+      "value": "{!red--lightest}"
+    },
+    "color-red--light": {
+      "value": "{!red--light}"
+    },
+    "color-red": {
+      "value": "{!red}"
+    },
+    "color-red--dark": {
+      "value": "{!red--dark}"
+    },
+    "color-red--darkest": {
+      "value": "{!red--darkest}"
+    },
+    "color-orange--lightest": {
+      "value": "{!orange--lightest}"
+    },
+    "color-orange--light": {
+      "value": "{!orange--light}"
+    },
+    "color-orange": {
+      "value": "{!orange}"
+    },
+    "color-orange--dark": {
+      "value": "{!orange--dark}"
+    },
+    "color-orange--darkest": {
+      "value": "{!orange--darkest}"
+    },
+    "color-yellow--lightest": {
+      "value": "{!yellow--lightest}"
+    },
+    "color-yellow--light": {
+      "value": "{!yellow--light}"
+    },
+    "color-yellow": {
+      "value": "{!yellow}"
+    },
+    "color-yellow--dark": {
+      "value": "{!yellow--dark}"
+    },
+    "color-yellow--darkest": {
+      "value": "{!yellow--darkest}"
+    },
+    "color-green--lightest": {
+      "value": "{!green--lightest}"
+    },
+    "color-green--light": {
+      "value": "{!green--light}"
+    },
+    "color-green": {
+      "value": "{!green}"
+    },
+    "color-green--dark": {
+      "value": "{!green--dark}"
+    },
+    "color-green--darkest": {
+      "value": "{!green--darkest}"
+    },
+    "color-teal--lightest": {
+      "value": "{!teal--lightest}"
+    },
+    "color-teal--light": {
+      "value": "{!teal--light}"
+    },
+    "color-teal": {
+      "value": "{!teal}"
+    },
+    "color-teal--dark": {
+      "value": "{!teal--dark}"
+    },
+    "color-teal--darkest": {
+      "value": "{!teal--darkest}"
+    },
+    "color-gray-50": {
+      "value": "{!gray-50}"
+    },
+    "color-gray-100": {
+      "value": "{!gray-100}"
+    },
+    "color-gray-200": {
+      "value": "{!gray-200}"
+    },
+    "color-gray-300": {
+      "value": "{!gray-300}"
+    },
+    "color-gray-400": {
+      "value": "{!gray-400}"
+    },
+    "color-gray-500": {
+      "value": "{!gray-500}"
+    },
+    "color-gray-600": {
+      "value": "{!gray-600}"
+    },
+    "color-gray-700": {
+      "value": "{!gray-700}"
+    },
+    "color-gray-800": {
+      "value": "{!gray-800}"
+    },
+    "color-gray-900": {
+      "value": "{!gray-900}"
+    }
+  }
+}

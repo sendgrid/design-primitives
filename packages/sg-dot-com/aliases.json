@@ -1,7 +1,25 @@
 {
   "imports": [
-    "../design-colors/colors.json",
+    "../design-colors/colors.v2.json",
     "../design-spacing/spacing.json",
     "../design-typography/typography.json"
-  ]
+  ],
+  "aliases": {
+    "scale-down-05": "2px",
+    "scale-down-04": "4px",
+    "scale-down-03": "8px",
+    "scale-down-02": "13px",
+    "scale-down-01": "14px",
+    "scale": "16px",
+    "scale-up-01": "18px",
+    "scale-up-02": "20px",
+    "scale-up-03": "24px",
+    "scale-up-04": "32px",
+    "scale-up-05": "48px",
+    "scale-up-06": "64px",
+    "scale-up-07": "72px",
+    "scale-up-08": "80px",
+    "scale-up-09": "88px",
+    "scale-up-10": "96px"
+  }
 }

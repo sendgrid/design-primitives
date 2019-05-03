@@ -1,7 +1,7 @@
 {
   "global": {
     "type": "number",
-    "category": "breakpoints"
+    "category": "breakpoint"
   },
   "props": {
     "breakpoint-small": {

@@ -1,5 +1,8 @@
 {
   "imports": [
-    "../utilities/breakpoints.json"
+    "../utilities/color.v2.json",
+    "../utilities/font-weight.json",
+    "../utilities/breakpoint.json",
+    "./components/scale.json"
   ]
 }
