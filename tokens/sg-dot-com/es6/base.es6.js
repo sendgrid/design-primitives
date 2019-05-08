@@ -3,6 +3,13 @@
  * SendGrid Design Tokens
  * 
  */
+export const borderLarge = "6px";
+export const borderMedium = "4px";
+export const borderRadius = "3px";
+export const borderSmall = "2px";
+export const boxShadowButtons = "0 2px 4px 0 #c8d7ee";
+export const boxShadowLarge = "0 20px 32px -8px #ebf2ff, 0 0 1px 0 #a8b9d5";
+export const boxShadowSmall = "0 7px 11px -4px rgba(0, 23, 62, 0.2), 0 0 1px 0 #a8b9d5";
 export const breakpointDesktop = "1280px";
 export const breakpointMobile = "768px";
 export const breakpointSmall = "520px";
@@ -73,6 +80,10 @@ export const fontWeightBold = "600";
 export const fontWeightLight = "300";
 export const fontWeightMedium = "500";
 export const fontWeightNormal = "400";
+export const rowLarge = "1280px";
+export const rowMedium = "880px";
+export const rowSmall = "672px";
+export const rowXsmall = "392px";
 export const scaleBase = "16px";
 export const scaleDown01 = "14px";
 export const scaleDown02 = "13px";
@@ -105,6 +116,17 @@ export const zIndex07 = "700";
 export const zIndex08 = "800";
 export const zIndex09 = "900";
 export const zIndex10 = "1000";
+export const border = {
+borderLarge,
+borderMedium,
+borderRadius,
+borderSmall,
+};
+export const boxShadow = {
+boxShadowButtons,
+boxShadowLarge,
+boxShadowSmall,
+};
 export const breakpoint = {
 breakpointDesktop,
 breakpointMobile,
@@ -180,6 +202,12 @@ fontWeightBold,
 fontWeightLight,
 fontWeightMedium,
 fontWeightNormal,
+};
+export const row = {
+rowLarge,
+rowMedium,
+rowSmall,
+rowXsmall,
 };
 export const scale = {
 scaleBase,

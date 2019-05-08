@@ -1,0 +1,23 @@
+{
+  "global": {
+    "category": "row"
+  },
+  "props": {
+    "row-xsmall": {
+      "value": "392px",
+      "type": "number"
+    },
+    "row-small": {
+      "value": "672px",
+      "type": "number"
+    },
+    "row-medium": {
+      "value": "880px",
+      "type": "number"
+    },
+    "row-large": {
+      "value": "1280px",
+      "type": "number"
+    }
+  }
+}
