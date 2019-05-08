@@ -1,6 +1,6 @@
 {
   "name": "@sendgrid/design-primitives",
-  "version": "1.3.0-beta.0",
+  "version": "1.3.0-beta.1",
   "description": "SendGrid design primitives",
   "repository": "https://github.com/sendgrid/design-primitives",
   "scripts": {
