@@ -89,6 +89,22 @@ export const scaleUp07 = "72px";
 export const scaleUp08 = "80px";
 export const scaleUp09 = "88px";
 export const scaleUp10 = "96px";
+export const spacingLg = "30px";
+export const spacingMd = "20px";
+export const spacingSm = "12px";
+export const spacingXl = "45px";
+export const spacingXs = "9px";
+export const spacingXxl = "60px";
+export const zIndex01 = "100";
+export const zIndex02 = "200";
+export const zIndex03 = "300";
+export const zIndex04 = "400";
+export const zIndex05 = "500";
+export const zIndex06 = "600";
+export const zIndex07 = "700";
+export const zIndex08 = "800";
+export const zIndex09 = "900";
+export const zIndex10 = "1000";
 export const breakpoint = {
 breakpointDesktop,
 breakpointMobile,
@@ -182,4 +198,24 @@ scaleUp07,
 scaleUp08,
 scaleUp09,
 scaleUp10,
+};
+export const spacing = {
+spacingLg,
+spacingMd,
+spacingSm,
+spacingXl,
+spacingXs,
+spacingXxl,
+};
+export const zIndex = {
+zIndex01,
+zIndex02,
+zIndex03,
+zIndex04,
+zIndex05,
+zIndex06,
+zIndex07,
+zIndex08,
+zIndex09,
+zIndex10,
 };
