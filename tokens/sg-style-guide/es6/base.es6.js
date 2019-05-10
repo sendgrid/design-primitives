@@ -122,6 +122,7 @@ export const dropzoneHoveredBorder = "#18c96e";
 export const fontPath = "\"../fonts\"";
 export const headerTabsBorderColor = "rgba(#000, 0.2)";
 export const headerTabsHover = "#394f64";
+export const iconAdCampaign = "\"\e962\"";
 export const iconAirplane = "\"\e90b\"";
 export const iconAirplaneFill = "\"\e912\"";
 export const iconAlignCenter = "\"\e927\"";
@@ -129,10 +130,12 @@ export const iconAlignLeft = "\"\e928\"";
 export const iconAlignRight = "\"\e929\"";
 export const iconAnalytics = "\"\e915\"";
 export const iconAutomation = "\"\e939\"";
+export const iconBriefcase = "\"\e95d\"";
 export const iconBuilder = "\"\e914\"";
 export const iconButton = "\"\e920\"";
 export const iconCalendar = "\"\e917\"";
 export const iconCaret = "\"\e900\"";
+export const iconChat = "\"\e95b\"";
 export const iconCheck = "\"\e905\"";
 export const iconCheckCircle = "\"\e907\"";
 export const iconCheckShield = "\"\e93f\"";
@@ -148,6 +151,7 @@ export const iconColumnOne = "\"\e953\"";
 export const iconColumnThree = "\"\e951\"";
 export const iconColumnTwo = "\"\e952\"";
 export const iconColumns = "\"\e923\"";
+export const iconConnection = "\"\e961\"";
 export const iconContacts = "\"\e913\"";
 export const iconContactsAlt = "\"\e92c\"";
 export const iconCopy = "\"\e902\"";
@@ -157,6 +161,7 @@ export const iconDesktopView = "\"\e627\"";
 export const iconDivider = "\"\e91a\"";
 export const iconDownload = "\"\e93e\"";
 export const iconDrag = "\"\e91b\"";
+export const iconDualFlags = "\"\e95c\"";
 export const iconEditorCode = "\"\e934\"";
 export const iconEditorDesign = "\"\e935\"";
 export const iconEditorOld = "\"\e933\"";
@@ -164,7 +169,9 @@ export const iconEllipsis = "\"\e90e\"";
 export const iconEllipsisVertical = "\"\e93a\"";
 export const iconFilter = "\"\e955\"";
 export const iconForms = "\"\e94f\"";
+export const iconFrequencyOptimization = "\"\e959\"";
 export const iconGear = "\"\e608\"";
+export const iconHash = "\"\e957\"";
 export const iconHelp = "\"\e932\"";
 export const iconHelpError = "\"\e93d\"";
 export const iconImage = "\"\e91e\"";
@@ -198,10 +205,15 @@ export const iconPencil = "\"\e624\"";
 export const iconPeople = "\"\e601\"";
 export const iconPieChart = "\"\e606\"";
 export const iconPlus = "\"\e617\"";
+export const iconPushNotifications = "\"\e958\"";
+export const iconRecipientCpm = "\"\e95f\"";
 export const iconReload = "\"\e926\"";
 export const iconSaveDraft = "\"\e911\"";
 export const iconSearch = "\"\e906\"";
 export const iconSegment = "\"\e609\"";
+export const iconSendOptimization = "\"\e960\"";
+export const iconSequenceOptimization = "\"\e95e\"";
+export const iconSettings = "\"\e95a\"";
 export const iconSocial = "\"\e925\"";
 export const iconSortAsc = "\"\e910\"";
 export const iconSortDesc = "\"\e90f\"";
@@ -416,6 +428,7 @@ headerTabsHover,
 };
 export const icons = {
 iconMailMulti,
+iconAdCampaign,
 iconAirplane,
 iconAirplaneFill,
 iconAlignCenter,
@@ -423,10 +436,12 @@ iconAlignLeft,
 iconAlignRight,
 iconAnalytics,
 iconAutomation,
+iconBriefcase,
 iconBuilder,
 iconButton,
 iconCalendar,
 iconCaret,
+iconChat,
 iconCheck,
 iconCheckCircle,
 iconCheckShield,
@@ -442,6 +457,7 @@ iconColumnOne,
 iconColumnThree,
 iconColumnTwo,
 iconColumns,
+iconConnection,
 iconContacts,
 iconContactsAlt,
 iconCopy,
@@ -451,6 +467,7 @@ iconDesktopView,
 iconDivider,
 iconDownload,
 iconDrag,
+iconDualFlags,
 iconEditorCode,
 iconEditorDesign,
 iconEditorOld,
@@ -458,7 +475,9 @@ iconEllipsis,
 iconEllipsisVertical,
 iconFilter,
 iconForms,
+iconFrequencyOptimization,
 iconGear,
+iconHash,
 iconHelp,
 iconHelpError,
 iconImage,
@@ -492,10 +511,15 @@ iconPencil,
 iconPeople,
 iconPieChart,
 iconPlus,
+iconPushNotifications,
+iconRecipientCpm,
 iconReload,
 iconSaveDraft,
 iconSearch,
 iconSegment,
+iconSendOptimization,
+iconSequenceOptimization,
+iconSettings,
 iconSocial,
 iconSortAsc,
 iconSortDesc,

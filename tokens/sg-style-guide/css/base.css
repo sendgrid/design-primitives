@@ -123,6 +123,7 @@
 --font-path: "../fonts";
 --header-tabs-border-color: rgba(#000, 0.2);
 --header-tabs-hover: #394f64;
+--icon-ad-campaign: "\e962";
 --icon-airplane: "\e90b";
 --icon-airplane-fill: "\e912";
 --icon-align-center: "\e927";
@@ -130,10 +131,12 @@
 --icon-align-right: "\e929";
 --icon-analytics: "\e915";
 --icon-automation: "\e939";
+--icon-briefcase: "\e95d";
 --icon-builder: "\e914";
 --icon-button: "\e920";
 --icon-calendar: "\e917";
 --icon-caret: "\e900";
+--icon-chat: "\e95b";
 --icon-check: "\e905";
 --icon-check-circle: "\e907";
 --icon-check-shield: "\e93f";
@@ -149,6 +152,7 @@
 --icon-column-three: "\e951";
 --icon-column-two: "\e952";
 --icon-columns: "\e923";
+--icon-connection: "\e961";
 --icon-contacts: "\e913";
 --icon-contacts-alt: "\e92c";
 --icon-copy: "\e902";
@@ -158,6 +162,7 @@
 --icon-divider: "\e91a";
 --icon-download: "\e93e";
 --icon-drag: "\e91b";
+--icon-dual-flags: "\e95c";
 --icon-editor-code: "\e934";
 --icon-editor-design: "\e935";
 --icon-editor-old: "\e933";
@@ -165,7 +170,9 @@
 --icon-ellipsis-vertical: "\e93a";
 --icon-filter: "\e955";
 --icon-forms: "\e94f";
+--icon-frequency-optimization: "\e959";
 --icon-gear: "\e608";
+--icon-hash: "\e957";
 --icon-help: "\e932";
 --icon-help-error: "\e93d";
 --icon-image: "\e91e";
@@ -199,10 +206,15 @@
 --icon-people: "\e601";
 --icon-pie-chart: "\e606";
 --icon-plus: "\e617";
+--icon-push-notifications: "\e958";
+--icon-recipient-cpm: "\e95f";
 --icon-reload: "\e926";
 --icon-save-draft: "\e911";
 --icon-search: "\e906";
 --icon-segment: "\e609";
+--icon-send-optimization: "\e960";
+--icon-sequence-optimization: "\e95e";
+--icon-settings: "\e95a";
 --icon-social: "\e925";
 --icon-sort-asc: "\e910";
 --icon-sort-desc: "\e90f";
