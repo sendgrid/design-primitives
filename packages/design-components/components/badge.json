@@ -1,7 +1,8 @@
 {
   "imports": [
     "../aliases.json",
-    "../../utilities/colors.json"
+    "../../utilities/colors.json",
+    "./scale.json"
   ],
   "global": {
     "category": "badge"
