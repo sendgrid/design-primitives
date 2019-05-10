@@ -1,0 +1,6 @@
+{
+  "imports": [
+    "../../utilities/colors.json",
+    "./scale.json"
+  ]
+}
