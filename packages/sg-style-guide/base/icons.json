@@ -4,6 +4,9 @@
     "category": "icons"
   },
   "props": {
+    "icon-ad-campaign": {
+      "value": "\"\\e962\""
+    },
     "icon-airplane": {
       "value": "\"\\e90b\""
     },
@@ -25,6 +28,9 @@
     "icon-automation": {
       "value": "\"\\e939\""
     },
+    "icon-briefcase": {
+      "value": "\"\\e95d\""
+    },
     "icon-builder": {
       "value": "\"\\e914\""
     },
@@ -36,6 +42,9 @@
     },
     "icon-caret": {
       "value": "\"\\e900\""
+    },
+    "icon-chat": {
+      "value": "\"\\e95b\""
     },
     "icon-check": {
       "value": "\"\\e905\""
@@ -82,6 +91,9 @@
     "icon-columns": {
       "value": "\"\\e923\""
     },
+    "icon-connection": {
+      "value": "\"\\e961\""
+    },
     "icon-contacts": {
       "value": "\"\\e913\""
     },
@@ -109,6 +121,9 @@
     "icon-drag": {
       "value": "\"\\e91b\""
     },
+    "icon-dual-flags": {
+      "value": "\"\\e95c\""
+    },
     "icon-editor-code": {
       "value": "\"\\e934\""
     },
@@ -130,8 +145,14 @@
     "icon-forms": {
       "value": "\"\\e94f\""
     },
+    "icon-frequency-optimization": {
+      "value": "\"\\e959\""
+    },
     "icon-gear": {
       "value": "\"\\e608\""
+    },
+    "icon-hash": {
+      "value": "\"\\e957\""
     },
     "icon-help": {
       "value": "\"\\e932\""
@@ -235,6 +256,12 @@
     "icon-plus": {
       "value": "\"\\e617\""
     },
+    "icon-push-notifications": {
+      "value": "\"\\e958\""
+    },
+    "icon-recipient-cpm": {
+      "value": "\"\\e95f\""
+    },
     "icon-reload": {
       "value": "\"\\e926\""
     },
@@ -244,8 +271,17 @@
     "icon-search": {
       "value": "\"\\e906\""
     },
+    "icon-send-optimization": {
+      "value": "\"\\e960\""
+    },
     "icon-segment": {
       "value": "\"\\e609\""
+    },
+    "icon-sequence-optimization": {
+      "value": "\"\\e95e\""
+    },
+    "icon-settings": {
+      "value": "\"\\e95a\""
     },
     "icon-social": {
       "value": "\"\\e925\""
