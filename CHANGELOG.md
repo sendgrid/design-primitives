@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [Released]
+### [1.3.1] - 2019-05-10
+#### Added
+- design-component scale tokens.
+- design-component scale to badge tokens.
+
 ### [1.3.0] - 2019-05-10
 #### Changed
 - Color packages.
