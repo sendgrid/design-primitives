@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.3] - 2019-05-08
+### Added
+- Added icon-ad-campaign, icon-briefcase, icon-chat, icon-connection, 
+  icon-dual-flags, icon-frequency-optimization, icon-has, icon-push-notifications, 
+  icon-recipient-cpm, icon-send-optimization, icon-sequence-optimization, icon-settings
+
 ## [1.2.2] - 2018-04-08
 ### Changed
 - Fixed color-slate-dark-05 variable.
