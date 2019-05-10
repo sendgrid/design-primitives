@@ -1,0 +1,66 @@
+{
+  "imports": [
+    "../aliases.json"
+  ],
+  "global": {
+    "category": "scale"
+  },
+  "props": {
+    "scale-base": {
+      "value": "{!scale-base}",
+      "type": "number"
+    },
+    "scale-up-01": {
+      "value": "{!scale-base-up-01}",
+      "type": "number"
+    },
+    "scale-up-02": {
+      "value": "{!scale-base-up-02}",
+      "type": "number"
+    },
+    "scale-up-03": {
+      "value": "{!scale-base-up-03}",
+      "type": "number"
+    },
+    "scale-up-04": {
+      "value": "{!scale-base-up-04}",
+      "type": "number"
+    },
+    "scale-up-05": {
+      "value": "{!scale-base-up-05}",
+      "type": "number"
+    },
+    "scale-up-06": {
+      "value": "{!scale-base-up-06}",
+      "type": "number"
+    },
+    "scale-up-07": {
+      "value": "{!scale-base-up-07}",
+      "type": "number"
+    },
+    "scale-up-08": {
+      "value": "{!scale-base-up-08}",
+      "type": "number"
+    },
+    "scale-up-09": {
+      "value": "{!scale-base-up-09}",
+      "type": "number"
+    },
+    "scale-up-10": {
+      "value": "{!scale-base-up-10}",
+      "type": "number"
+    },
+    "scale-down-01": {
+      "value": "{!scale-base-down-01}",
+      "type": "number"
+    },
+    "scale-down-02": {
+      "value": "{!scale-base-down-02}",
+      "type": "number"
+    },
+    "scale-down-03": {
+      "value": "{!scale-base-down-03}",
+      "type": "number"
+    }
+  }
+}

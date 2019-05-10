@@ -68,6 +68,20 @@ export const colorSpruce = "#4cb04f";
 export const colorSteel = "#9e9e9e";
 export const colorWhite = "#fff";
 export const colorWildStrawberry = "#ff4081";
+export const scaleBase = "12px";
+export const scaleDown01 = "9px";
+export const scaleDown02 = "6px";
+export const scaleDown03 = "3px";
+export const scaleUp01 = "13px";
+export const scaleUp02 = "15px";
+export const scaleUp03 = "18px";
+export const scaleUp04 = "20px";
+export const scaleUp05 = "27px";
+export const scaleUp06 = "30px";
+export const scaleUp07 = "40px";
+export const scaleUp08 = "45px";
+export const scaleUp09 = "60px";
+export const scaleUp10 = "90px";
 export const spacingLg = "30px";
 export const spacingMd = "20px";
 export const spacingSm = "12px";
@@ -144,6 +158,22 @@ colorSpruce,
 colorSteel,
 colorWhite,
 colorWildStrawberry,
+};
+export const scale = {
+scaleBase,
+scaleDown01,
+scaleDown02,
+scaleDown03,
+scaleUp01,
+scaleUp02,
+scaleUp03,
+scaleUp04,
+scaleUp05,
+scaleUp06,
+scaleUp07,
+scaleUp08,
+scaleUp09,
+scaleUp10,
 };
 export const spacing = {
 spacingLg,
