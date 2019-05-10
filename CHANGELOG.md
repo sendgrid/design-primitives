@@ -5,31 +5,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-### [1.3.0-beta.3] - 2019-05-10
-#### Added
-- Sg-dot-com scss token file.
 
-### [1.3.0-beta.2] - 2019-05-08
-#### Added
-- Sg-dot-com border tokens.
-- Sg-dot-com box-shadow tokens.
-- Sg-dot-com row tokens.
-
-
-### [1.3.0-beta.1] - 2019-05-08
-#### Added
-- Utilies z-index tokens.
-
-### [1.3.0-beta.0] - 2019-05-03
+## [Released]
+### [1.3.0] - 2019-05-10
 #### Changed
 - Color packages.
 
 #### Added
 - Color v2 aliases.
-- Sg-dot-com package.
 - Utilities.
+- Utilies z-index tokens.
+- Sg-dot-com package.
+- Sg-dot-com border tokens.
+- Sg-dot-com box-shadow tokens.
+- Sg-dot-com row tokens.
+- Sg-dot-com scss token file.
 
-## [Released]
 ## [1.2.2] - 2019-04-08
 ### Changed
 - Fixed color-slate-dark-05 variable.
