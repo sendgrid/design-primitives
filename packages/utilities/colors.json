@@ -1,0 +1,158 @@
+{
+  "imports": [
+    "../design-colors/colors.json"
+  ],
+  "global": {
+    "type": "color/hex",
+    "category": "colors"
+  },
+  "props": {
+    "color-blue": {
+      "value": "{!sg-blue}"
+    },
+    "color-slate": {
+      "value": "{!slate}"
+    },
+    "color-blue-80": {
+      "value": "{!sg-blue-80}"
+    },
+    "color-blue-60": {
+      "value": "{!sg-blue-60}"
+    },
+    "color-blue-40": {
+      "value": "{!sg-blue-40}"
+    },
+    "color-blue-20": {
+      "value": "{!sg-blue-20}"
+    },
+    "color-blue-10": {
+      "value": "{!sg-blue-10}"
+    },
+    "color-blue-05": {
+      "value": "{!sg-blue-05}"
+    },
+    "color-blue-02": {
+      "value": "{!sg-blue-02}"
+    },
+    "color-slate-80": {
+      "value": "{!slate-80}"
+    },
+    "color-slate-60": {
+      "value": "{!slate-60}"
+    },
+    "color-slate-40": {
+      "value": "{!slate-40}"
+    },
+    "color-slate-20": {
+      "value": "{!slate-20}"
+    },
+    "color-slate-10": {
+      "value": "{!slate-10}"
+    },
+    "color-slate-05": {
+      "value": "{!slate-05}"
+    },
+    "color-slate-02": {
+      "value": "{!slate-02}"
+    },
+    "color-slate-dark-05": {
+      "value": "#21394f"
+    },
+    "color-logo-accent-light": {
+      "value": "{!logo-accent-light}"
+    },
+    "color-logo-accent-medium": {
+      "value": "{!logo-accent-medium}"
+    },
+    "color-logo-accent-dark": {
+      "value": "{!logo-accent-dark}"
+    },
+    "color-ron-burgundy": {
+      "value": "{!ron-burgundy}"
+    },
+    "color-burnt-orange": {
+      "value": "{!burnt-orange}"
+    },
+    "color-carrot": {
+      "value": "{!carrot}"
+    },
+    "color-mango": {
+      "value": "{!mango}"
+    },
+    "color-mantis": {
+      "value": "{!mantis}"
+    },
+    "color-spruce": {
+      "value": "{!spruce}"
+    },
+    "color-grass-stain": {
+      "value": "{!grass-stain}"
+    },
+    "color-lime": {
+      "value": "{!lime}"
+    },
+    "color-cobalt": {
+      "value": "{!cobalt}"
+    },
+    "color-bluebird": {
+      "value": "{!bluebird}"
+    },
+    "color-seafoam": {
+      "value": "{!seafoam}"
+    },
+    "color-caribbean": {
+      "value": "{!caribbean}"
+    },
+    "color-crown": {
+      "value": "{!crown}"
+    },
+    "color-screample": {
+      "value": "{!screample}"
+    },
+    "color-sangria": {
+      "value": "{!sangria}"
+    },
+    "color-lavender": {
+      "value": "{!lavender}"
+    },
+    "color-wild-strawberry": {
+      "value": "{!wild-strawberry}"
+    },
+    "color-steel": {
+      "value": "{!steel}"
+    },
+    "color-white": {
+      "value": "{!white}"
+    },
+    "color-black": {
+      "value": "{!black}"
+    },
+    "color-alert-success": {
+      "value": "{!alert-success}"
+    },
+    "color-alert-success-text": {
+      "value": "{!alert-success-text}"
+    },
+    "color-alert-warning": {
+      "value": "{!alert-warning}"
+    },
+    "color-alert-warning-text": {
+      "value": "{!alert-warning-text}"
+    },
+    "color-alert-danger": {
+      "value": "{!alert-danger}"
+    },
+    "color-alert-danger-text": {
+      "value": "{!alert-danger-text}"
+    },
+    "color-alert-verification": {
+      "value": "{!mantis}"
+    },
+    "color-alert-trial": {
+      "value": "{!slate}"
+    },
+    "color-highlighter": {
+      "value": "rgba({!mango}, 0.6)"
+    }
+  }
+}

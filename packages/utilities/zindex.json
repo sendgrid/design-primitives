@@ -1,0 +1,38 @@
+{
+  "global": {
+    "type": "number",
+    "category": "z-index"
+  },
+  "props": {
+    "z-index-01": {
+      "value": "100"
+    },
+    "z-index-02": {
+      "value": "200"
+    },
+    "z-index-03": {
+      "value": "300"
+    },
+    "z-index-04": {
+      "value": "400"
+    },
+    "z-index-05": {
+      "value": "500"
+    },
+    "z-index-06": {
+      "value": "600"
+    },
+    "z-index-07": {
+      "value": "700"
+    },
+    "z-index-08": {
+      "value": "800"
+    },
+    "z-index-09": {
+      "value": "900"
+    },
+    "z-index-10": {
+      "value": "1000"
+    }
+  }
+}

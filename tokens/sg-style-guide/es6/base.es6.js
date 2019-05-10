@@ -584,11 +584,13 @@ tooltipBg,
 tooltipFontSize,
 tooltipLineHeight,
 };
-export const typesettings = {
+export const typesetting = {
 colfax,
 colfaxBold,
 colfaxLight,
 colfaxMedium,
+};
+export const typesettings = {
 fontPath,
 scaleBase,
 scaleBaseDown01,

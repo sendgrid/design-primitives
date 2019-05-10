@@ -1,0 +1,20 @@
+{
+  "global": {
+    "type": "number",
+    "category": "breakpoint"
+  },
+  "props": {
+    "breakpoint-small": {
+      "value": "520px"
+    },
+    "breakpoint-mobile": {
+      "value": "768px"
+    },
+    "breakpoint-tablet": {
+      "value": "992px"
+    },
+    "breakpoint-desktop": {
+      "value": "1280px"
+    }
+  }
+}

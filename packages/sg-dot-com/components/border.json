@@ -1,0 +1,23 @@
+{
+  "global": {
+    "category": "border"
+  },
+  "props": {
+    "border-radius": {
+      "value": "3px",
+      "type": "number"
+    },
+    "border-small": {
+      "value": "2px",
+      "type": "number"
+    },
+    "border-medium": {
+      "value": "4px",
+      "type": "number"
+    },
+    "border-large": {
+      "value": "6px",
+      "type": "number"
+    }
+  }
+}

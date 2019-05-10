@@ -25,6 +25,24 @@ gulp.task('lint', (done) => {
     done();
 });
 
+gulp.task('components:tokens:scss', () =>
+  gulp.src('packages/design-components/components/**/*.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'scss' }
+    }))
+    .pipe(gulp.dest('tokens/design-components/scss'))
+);
+
+gulp.task('components:tokens:es6js', () =>
+  gulp.src('packages/design-components/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'es6.js' },
+    }))
+    .pipe(gulp.dest('tokens/design-components/es6'))
+);
+
 gulp.task('styleguide:tokens:scss', () =>
   gulp.src('packages/sg-style-guide/base.json')
     .pipe(gulpTheo({
@@ -59,6 +77,24 @@ gulp.task('styleguide:tokens:commonjs', () =>
       format: { type: 'common.js' }
     }))
     .pipe(gulp.dest('tokens/sg-style-guide/js'))
+);
+
+gulp.task('sgdotcom:tokens:es6js', () =>
+  gulp.src('packages/sg-dot-com/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'es6.js' },
+    }))
+    .pipe(gulp.dest('tokens/sg-dot-com/es6'))
+);
+
+gulp.task('sgdotcom:tokens:scss', () =>
+  gulp.src('packages/sg-dot-com/base.json')
+    .pipe(gulpTheo({
+      transform: { type: 'web' },
+      format: { type: 'scss' },
+    }))
+    .pipe(gulp.dest('tokens/sg-dot-com/scss'))
 );
 
 gulp.task('dotdesign:tokens:scss', () =>
@@ -112,6 +148,10 @@ gulp.task('default',
       'dotdesign:tokens:css',
       'dotdesign:tokens:es6js',
       'dotdesign:tokens:commonjs',
+      'components:tokens:es6js',
+      'components:tokens:scss',
+      'sgdotcom:tokens:es6js',
+      'sgdotcom:tokens:scss',
     )
   )
 );

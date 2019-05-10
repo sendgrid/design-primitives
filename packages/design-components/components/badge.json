@@ -1,0 +1,43 @@
+{
+  "imports": [
+    "../aliases.json",
+    "../../utilities/colors.json"
+  ],
+  "global": {
+    "category": "badge"
+  },
+  "props": {
+    "badge-margin": {
+      "value": "0 0 {!scale-base-down-03}",
+      "type": "number"
+    },
+    "badge-padding": {
+      "value": "{!scale-base-down-03} {!scale-base-down-02}",
+      "type": "number"
+    },
+    "badge-font-size": {
+      "value": "10px",
+      "type": "number"
+    },
+    "badge-line-height": {
+      "value": "1",
+      "type": "number"
+    },
+    "badge-letter-spacing": {
+      "value": "1px",
+      "type": "number"
+    },
+    "badge-color": {
+      "value": "{!white}",
+      "type": "color/hex"
+    },
+    "badge-background-color": {
+      "value": "{!slate-40}",
+      "type": "color/hex"
+    },
+    "badge-border-radius": {
+      "value": "{!border-radius}",
+      "type": "number"
+    }
+  }
+}

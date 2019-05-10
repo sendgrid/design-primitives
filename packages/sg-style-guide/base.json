@@ -2,7 +2,7 @@
   "imports": [
     "./base/borders.json",
     "./base/buttons.json",
-    "./base/colors.json",
+    "../utilities/colors.json",
     "./base/div.json",
     "./base/dropzones.json",
     "./base/filters.json",
@@ -19,6 +19,7 @@
     "./base/tables.json",
     "./base/tooltips.json",
     "./base/typography.json",
+    "../utilities/typography.json",
     "./base/z-index.json"
   ]
 }
