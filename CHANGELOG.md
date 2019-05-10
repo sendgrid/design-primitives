@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [Released]
+### [1.3.2] - 2019-05-10
+#### Changed
+- design-component: removed global variables from badge component.
+
+#### Added
+- design-component: global tokens.
+
 ### [1.3.1] - 2019-05-10
 #### Added
 - design-component scale tokens.
