@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Added
 - Color v2 aliases.
 - Utilities.
-- Utilies z-index tokens.
+- Utilities z-index tokens.
 - Sg-dot-com package.
 - Sg-dot-com border tokens.
 - Sg-dot-com box-shadow tokens.
