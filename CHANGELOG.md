@@ -5,10 +5,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-### Added
-- Added icon-ad-campaign, icon-briefcase, icon-chat, icon-connection, 
-  icon-dual-flags, icon-frequency-optimization, icon-has, icon-push-notifications, 
-  icon-recipient-cpm, icon-send-optimization, icon-sequence-optimization, icon-settings
 
 ## [Released]
 ### [1.3.0] - 2019-05-10
@@ -24,6 +20,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Sg-dot-com box-shadow tokens.
 - Sg-dot-com row tokens.
 - Sg-dot-com scss token file.
+- Added icon-ad-campaign, icon-briefcase, icon-chat, icon-connection,
+  icon-dual-flags, icon-frequency-optimization, icon-has, icon-push-notifications,
+  icon-recipient-cpm, icon-send-optimization, icon-sequence-optimization, icon-settings
 
 ## [1.2.2] - 2019-04-08
 ### Changed
