@@ -3,6 +3,15 @@
  * SendGrid Design Tokens
  * 
  */
+export const alertDanger = "#f4dddd";
+export const alertDangerText = "#b71c1c";
+export const alertSuccess = "#f1f7e9";
+export const alertSuccessText = "#2e6b30";
+export const alertTrial = "#294661";
+export const alertVerification = "#18c96e";
+export const alertWarning = "#fefae6";
+export const alertWarningText = "#8c6c15";
+export const alertSuccessText = "#2e6b30";
 export const badgeBackgroundColor = "#a9b5c0";
 export const badgeBorderRadius = "2px";
 export const badgeColor = "#fff";
@@ -25,6 +34,17 @@ export const spacingSm = "12px";
 export const spacingXl = "45px";
 export const spacingXs = "9px";
 export const spacingXxl = "60px";
+export const alert = {
+alertDanger,
+alertDangerText,
+alertSuccess,
+alertSuccessText,
+alertTrial,
+alertVerification,
+alertWarning,
+alertWarningText,
+alertSuccessText,
+};
 export const badge = {
 badgeBackgroundColor,
 badgeBorderRadius,
