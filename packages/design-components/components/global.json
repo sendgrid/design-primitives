@@ -1,6 +1,8 @@
 {
   "imports": [
+    "../../sg-style-guide/base/borders.json",
     "../../utilities/colors.json",
+    "../../sg-style-guide/base/icons.json",
     "./scale.json"
   ]
 }
