@@ -1,5 +1,6 @@
 {
   "imports": [
+    "./components/alert.json",
     "./components/banner-message.json",
     "./components/badge.json",
     "../utilities/spacing.json"

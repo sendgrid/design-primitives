@@ -1,0 +1,46 @@
+{
+  "imports": [
+    "../aliases.json"
+  ],
+  "global": {
+    "category": "alert"
+  },
+  "props": {
+    "alert-success-text": {
+      "value": "#2e6b30",
+      "type": "color/hex"
+    },
+    "$alert-success": {
+      "value": "#f1f7e9",
+      "type": "color/hex"
+    },
+    "$alert-success-text": {
+      "value": "#2e6b30",
+      "type": "color/hex"
+    },
+    "$alert-warning": {
+      "value": "#fefae6",
+      "type": "color/hex"
+    },
+    "$alert-warning-text": {
+      "value": "#8c6c15",
+      "type": "color/hex"
+    },
+    "$alert-danger": {
+      "value": "#f4dddd",
+      "type": "color/hex"
+    },
+    "$alert-danger-text": {
+      "value": "#b71c1c",
+      "type": "color/hex"
+    },
+    "$alert-verification": {
+      "value": "{!mantis}",
+      "type": "color/hex"
+    },
+    "$alert-trial": {
+      "value": "{!slate}",
+      "type": "color/hex"
+    }
+  }
+}
