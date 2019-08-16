@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [Released]
+### [1.3.3] - 2019-05-22
+#### Added
+- added alert tokens
+- added icons to global tokens
+- added border radius to global tokens
+
 ### [1.3.2] - 2019-05-10
 #### Changed
 - design-component: removed global variables from badge component.
