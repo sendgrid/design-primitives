@@ -86,20 +86,25 @@ export const rowSmall = "672px";
 export const rowXsmall = "392px";
 export const scaleBase = "16px";
 export const scaleDown01 = "14px";
-export const scaleDown02 = "13px";
+export const scaleDown02 = "12px";
 export const scaleDown03 = "8px";
 export const scaleDown04 = "4px";
 export const scaleDown05 = "2px";
 export const scaleUp01 = "18px";
 export const scaleUp02 = "20px";
 export const scaleUp03 = "24px";
-export const scaleUp04 = "32px";
-export const scaleUp05 = "48px";
-export const scaleUp06 = "64px";
-export const scaleUp07 = "72px";
-export const scaleUp08 = "80px";
-export const scaleUp09 = "88px";
-export const scaleUp10 = "96px";
+export const scaleUp04 = "28px";
+export const scaleUp05 = "32px";
+export const scaleUp06 = "36px";
+export const scaleUp07 = "40px";
+export const scaleUp08 = "48px";
+export const scaleUp09 = "56px";
+export const scaleUp10 = "64px";
+export const scaleUp11 = "72px";
+export const scaleUp12 = "80px";
+export const scaleUp13 = "88px";
+export const scaleUp14 = "96px";
+export const scaleUp15 = "100px";
 export const spacingLg = "30px";
 export const spacingMd = "20px";
 export const spacingSm = "12px";
@@ -226,6 +231,11 @@ scaleUp07,
 scaleUp08,
 scaleUp09,
 scaleUp10,
+scaleUp11,
+scaleUp12,
+scaleUp13,
+scaleUp14,
+scaleUp15,
 };
 export const spacing = {
 spacingLg,
