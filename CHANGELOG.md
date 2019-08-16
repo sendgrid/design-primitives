@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [Released]
+### [1.3.4] - 2019-08-16
+#### Changed
+- fixed sg-dot-com scale tokens
+
+#### Added
+- Add new sg-dot-com scale tokens
+
 ### [1.3.3] - 2019-05-22
 #### Added
 - added alert tokens
