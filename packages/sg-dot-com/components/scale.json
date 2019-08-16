@@ -50,6 +50,26 @@
       "value": "{!scale-up-10}",
       "type": "number"
     },
+    "scale-up-11": {
+      "value": "{!scale-up-11}",
+      "type": "number"
+    },
+    "scale-up-12": {
+      "value": "{!scale-up-12}",
+      "type": "number"
+    },
+    "scale-up-13": {
+      "value": "{!scale-up-13}",
+      "type": "number"
+    },
+    "scale-up-14": {
+      "value": "{!scale-up-14}",
+      "type": "number"
+    },
+    "scale-up-15": {
+      "value": "{!scale-up-15}",
+      "type": "number"
+    },
     "scale-down-01": {
       "value": "{!scale-down-01}",
       "type": "number"
