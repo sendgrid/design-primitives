@@ -60,6 +60,16 @@ export const colorPurpleDark = "#400e9a";
 export const colorPurpleDarkest = "#1c0050";
 export const colorPurpleLight = "#dbc7ff";
 export const colorPurpleLightest = "#f3edff";
+export const colorPurple10 = "#f3edff";
+export const colorPurple100 = "#10002e";
+export const colorPurple20 = "#ebe0ff";
+export const colorPurple30 = "#dbc7ff";
+export const colorPurple40 = "#aa7aff";
+export const colorPurple50 = "#6f3cca";
+export const colorPurple60 = "#582da4";
+export const colorPurple70 = "#400e9a";
+export const colorPurple80 = "#300b75";
+export const colorPurple90 = "#1c0050";
 export const colorRed = "#ce241a";
 export const colorRedDark = "#740600";
 export const colorRedDarkest = "#4a0400";
@@ -215,6 +225,16 @@ colorPurpleDark,
 colorPurpleDarkest,
 colorPurpleLight,
 colorPurpleLightest,
+colorPurple10,
+colorPurple100,
+colorPurple20,
+colorPurple30,
+colorPurple40,
+colorPurple50,
+colorPurple60,
+colorPurple70,
+colorPurple80,
+colorPurple90,
 colorRed,
 colorRedDark,
 colorRedDarkest,
