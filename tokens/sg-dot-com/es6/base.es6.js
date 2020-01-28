@@ -55,6 +55,16 @@ export const colorPinkDark = "#d82a68";
 export const colorPinkDarkest = "#7c002c";
 export const colorPinkLight = "#ffcadd";
 export const colorPinkLightest = "#ffeff5";
+export const colorPink10 = "#ffeff5";
+export const colorPink100 = "#470019";
+export const colorPink20 = "#ffe0ec";
+export const colorPink30 = "#ffcadd";
+export const colorPink40 = "#faa3c3";
+export const colorPink50 = "#f772a2";
+export const colorPink60 = "#f44383";
+export const colorPink70 = "#d82a68";
+export const colorPink80 = "#ac2052";
+export const colorPink90 = "#7c002c";
 export const colorPurple = "#6f3cca";
 export const colorPurpleDark = "#400e9a";
 export const colorPurpleDarkest = "#1c0050";
@@ -220,6 +230,16 @@ colorPinkDark,
 colorPinkDarkest,
 colorPinkLight,
 colorPinkLightest,
+colorPink10,
+colorPink100,
+colorPink20,
+colorPink30,
+colorPink40,
+colorPink50,
+colorPink60,
+colorPink70,
+colorPink80,
+colorPink90,
 colorPurple,
 colorPurpleDark,
 colorPurpleDarkest,
