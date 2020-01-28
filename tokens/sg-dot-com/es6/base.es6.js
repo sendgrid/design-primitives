@@ -90,6 +90,16 @@ export const colorVioletDark = "#740089";
 export const colorVioletDarkest = "#490057";
 export const colorVioletLight = "#f3b1ff";
 export const colorVioletLightest = "#fdf1ff";
+export const colorViolet10 = "#fdf1ff";
+export const colorViolet100 = "#2f0038";
+export const colorViolet20 = "#f9d6ff";
+export const colorViolet30 = "#f3b1ff";
+export const colorViolet40 = "#ec85ff";
+export const colorViolet50 = "#c850de";
+export const colorViolet60 = "#a000bd";
+export const colorViolet70 = "#740089";
+export const colorViolet80 = "#5f0070";
+export const colorViolet90 = "#490057";
 export const colorWhite = "#fff";
 export const colorYellow = "#fabb2b";
 export const colorYellowDark = "#996b00";
@@ -235,6 +245,16 @@ colorVioletDark,
 colorVioletDarkest,
 colorVioletLight,
 colorVioletLightest,
+colorViolet10,
+colorViolet100,
+colorViolet20,
+colorViolet30,
+colorViolet40,
+colorViolet50,
+colorViolet60,
+colorViolet70,
+colorViolet80,
+colorViolet90,
 colorWhite,
 colorYellow,
 colorYellowDark,
