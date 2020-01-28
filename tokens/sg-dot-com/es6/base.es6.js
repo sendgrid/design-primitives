@@ -45,6 +45,16 @@ export const colorGreenDark = "#006631";
 export const colorGreenDarkest = "#00361a";
 export const colorGreenLight = "#8eeebc";
 export const colorGreenLightest = "#e0ffef";
+export const colorGreen10 = "#e0ffef";
+export const colorGreen100 = "#00361a";
+export const colorGreen20 = "#c7ffe2";
+export const colorGreen30 = "#8eeebc";
+export const colorGreen40 = "#5fe7a1";
+export const colorGreen50 = "#23bf6e";
+export const colorGreen60 = "#00994a";
+export const colorGreen70 = "#00803d";
+export const colorGreen80 = "#006631";
+export const colorGreen90 = "#004d25";
 export const colorOrange = "#f28510";
 export const colorOrangeDark = "#a83e00";
 export const colorOrangeDarkest = "#762e04";
@@ -250,6 +260,16 @@ colorGreenDark,
 colorGreenDarkest,
 colorGreenLight,
 colorGreenLightest,
+colorGreen10,
+colorGreen100,
+colorGreen20,
+colorGreen30,
+colorGreen40,
+colorGreen50,
+colorGreen60,
+colorGreen70,
+colorGreen80,
+colorGreen90,
 colorOrange,
 colorOrangeDark,
 colorOrangeDarkest,

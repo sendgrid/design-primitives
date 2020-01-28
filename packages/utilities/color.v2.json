@@ -373,20 +373,50 @@
     "color-yellow--darkest": {
       "value": "{!yellow-80}"
     },
+    "color-green-10": {
+      "value": "{!green-10}"
+    },
+    "color-green-20": {
+      "value": "{!green-20}"
+    },
+    "color-green-30": {
+      "value": "{!green-30}"
+    },
+    "color-green-40": {
+      "value": "{!green-40}"
+    },
+    "color-green-50": {
+      "value": "{!green-50}"
+    },
+    "color-green-60": {
+      "value": "{!green-60}"
+    },
+    "color-green-70": {
+      "value": "{!green-70}"
+    },
+    "color-green-80": {
+      "value": "{!green-80}"
+    },
+    "color-green-90": {
+      "value": "{!green-90}"
+    },
+    "color-green-100": {
+      "value": "{!green-100}"
+    },
     "color-green--lightest": {
-      "value": "{!green--lightest}"
+      "value": "{!green-10}"
     },
     "color-green--light": {
-      "value": "{!green--light}"
+      "value": "{!green-30}"
     },
     "color-green": {
-      "value": "{!green}"
+      "value": "{!green-50}"
     },
     "color-green--dark": {
-      "value": "{!green--dark}"
+      "value": "{!green-80}"
     },
     "color-green--darkest": {
-      "value": "{!green--darkest}"
+      "value": "{!green-100}"
     },
     "color-teal--lightest": {
       "value": "{!teal--lightest}"
