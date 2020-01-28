@@ -13,20 +13,50 @@
     "color-white": {
       "value": "{!white}"
     },
+    "color-blue-10": {
+      "value": "{!blue-10}"
+    },
+    "color-blue-20": {
+      "value": "{!blue-20}"
+    },
+    "color-blue-30": {
+      "value": "{!blue-30}"
+    },
+    "color-blue-40": {
+      "value": "{!blue-40}"
+    },
+    "color-blue-50": {
+      "value": "{!blue-50}"
+    },
+    "color-blue-60": {
+      "value": "{!blue-60}"
+    },
+    "color-blue-70": {
+      "value": "{!blue-70}"
+    },
+    "color-blue-80": {
+      "value": "{!blue-80}"
+    },
+    "color-blue-90": {
+      "value": "{!blue-90}"
+    },
+    "color-blue-100": {
+      "value": "{!blue-100}"
+    },
     "color-blue--lightest": {
-      "value": "{!blue--lightest}"
+      "value": "{!blue-10}"
     },
     "color-blue--light": {
-      "value": "{!blue--light}"
+      "value": "{!blue-30}"
     },
     "color-blue": {
-      "value": "{!blue}"
+      "value": "{!blue-50}"
     },
     "color-blue--dark": {
-      "value": "{!blue--dark}"
+      "value": "{!blue-70}"
     },
     "color-blue--darkest": {
-      "value": "{!blue--darkest}"
+      "value": "{!blue-100}"
     },
     "color-turquoise--lightest": {
       "value": "{!turquoise--lightest}"

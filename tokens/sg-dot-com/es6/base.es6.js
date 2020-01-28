@@ -20,6 +20,16 @@ export const colorBlueDark = "#002ca6";
 export const colorBlueDarkest = "#000e35";
 export const colorBlueLight = "#baccff";
 export const colorBlueLightest = "#f5f8ff";
+export const colorBlue10 = "#f5f8ff";
+export const colorBlue100 = "#000e35";
+export const colorBlue20 = "#dbe6ff";
+export const colorBlue30 = "#baccff";
+export const colorBlue40 = "#85a5ff";
+export const colorBlue50 = "#3368fa";
+export const colorBlue60 = "#003adb";
+export const colorBlue70 = "#002ca6";
+export const colorBlue80 = "#001f75";
+export const colorBlue90 = "#00154d";
 export const colorGray100 = "#ebf2ff";
 export const colorGray200 = "#dfe9fa";
 export const colorGray300 = "#c8d7ee";
@@ -145,6 +155,16 @@ colorBlueDark,
 colorBlueDarkest,
 colorBlueLight,
 colorBlueLightest,
+colorBlue10,
+colorBlue100,
+colorBlue20,
+colorBlue30,
+colorBlue40,
+colorBlue50,
+colorBlue60,
+colorBlue70,
+colorBlue80,
+colorBlue90,
 colorGray100,
 colorGray200,
 colorGray300,
