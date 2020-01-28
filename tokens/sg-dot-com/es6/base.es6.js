@@ -146,6 +146,16 @@ export const colorYellowDark = "#996b00";
 export const colorYellowDarkest = "#704e00";
 export const colorYellowLight = "#ffde92";
 export const colorYellowLightest = "#fff7e5";
+export const colorYellow10 = "#fff7e5";
+export const colorYellow100 = "#2e2000";
+export const colorYellow20 = "#ffecc2";
+export const colorYellow30 = "#ffde92";
+export const colorYellow40 = "#fbca5b";
+export const colorYellow50 = "#fabb2b";
+export const colorYellow60 = "#eaa506";
+export const colorYellow70 = "#996b00";
+export const colorYellow80 = "#704e00";
+export const colorYellow90 = "#4d3500";
 export const fontWeightBold = "600";
 export const fontWeightLight = "300";
 export const fontWeightMedium = "500";
@@ -341,6 +351,16 @@ colorYellowDark,
 colorYellowDarkest,
 colorYellowLight,
 colorYellowLightest,
+colorYellow10,
+colorYellow100,
+colorYellow20,
+colorYellow30,
+colorYellow40,
+colorYellow50,
+colorYellow60,
+colorYellow70,
+colorYellow80,
+colorYellow90,
 };
 export const fontWeight = {
 fontWeightBold,
