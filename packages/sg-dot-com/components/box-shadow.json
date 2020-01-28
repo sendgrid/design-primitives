@@ -7,15 +7,15 @@
   },
   "props": {
     "box-shadow-small": {
-      "value": "0 7px 11px -4px rgba(0, 23, 62, 0.2), 0 0 1px 0 {!gray-400}",
+      "value": "0 7px 11px -4px rgba(0, 23, 62, 0.2), 0 0 1px 0 {!gray-blue-50}",
       "type": "box-shadow"
     },
     "box-shadow-large": {
-      "value": "0 20px 32px -8px {!gray-100}, 0 0 1px 0 {!gray-400}",
+      "value": "0 20px 32px -8px {!gray-blue-20}, 0 0 1px 0 {!gray-blue-50}",
       "type": "box-shadow"
     },
     "box-shadow-buttons": {
-      "value": "0 2px 4px 0 {!gray-300}",
+      "value": "0 2px 4px 0 {!gray-blue-40}",
       "type": "box-shadow"
     }
   }

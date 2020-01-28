@@ -36,10 +36,20 @@ export const colorGray300 = "#c8d7ee";
 export const colorGray400 = "#a8b9d5";
 export const colorGray50 = "#f5f8fd";
 export const colorGray500 = "#8ba3ca";
-export const colorGray600 = "#546b91";
+export const colorGray600 = "#4a6592";
 export const colorGray700 = "#2c4a7d";
 export const colorGray800 = "#0b2c64";
 export const colorGray900 = "#00173e";
+export const colorGrayBlue10 = "#f5f8fd";
+export const colorGrayBlue100 = "#00173e";
+export const colorGrayBlue20 = "#ebf2ff";
+export const colorGrayBlue30 = "#dfe9fa";
+export const colorGrayBlue40 = "#c8d7ee";
+export const colorGrayBlue50 = "#a8b9d5";
+export const colorGrayBlue60 = "#8ba3ca";
+export const colorGrayBlue70 = "#4a6592";
+export const colorGrayBlue80 = "#2c4a7d";
+export const colorGrayBlue90 = "#0b2c64";
 export const colorGreen = "#23bf6e";
 export const colorGreenDark = "#006631";
 export const colorGreenDarkest = "#00361a";
@@ -265,6 +275,16 @@ colorGray600,
 colorGray700,
 colorGray800,
 colorGray900,
+colorGrayBlue10,
+colorGrayBlue100,
+colorGrayBlue20,
+colorGrayBlue30,
+colorGrayBlue40,
+colorGrayBlue50,
+colorGrayBlue60,
+colorGrayBlue70,
+colorGrayBlue80,
+colorGrayBlue90,
 colorGreen,
 colorGreenDark,
 colorGreenDarkest,

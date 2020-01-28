@@ -102,15 +102,15 @@
     "teal-80": "#00634a",
     "teal-90": "#004735",
     "teal-100": "#001611",
-    "gray-50": "#f5f8fd",
-    "gray-100": "#ebf2ff",
-    "gray-200": "#dfe9fa",
-    "gray-300": "#c8d7ee",
-    "gray-400": "#a8b9d5",
-    "gray-500": "#8ba3ca",
-    "gray-600": "#546b91",
-    "gray-700": "#2c4a7d",
-    "gray-800": "#0b2c64",
-    "gray-900": "#00173e"
+    "gray-blue-10": "#f5f8fd",
+    "gray-blue-20": "#ebf2ff",
+    "gray-blue-30": "#dfe9fa",
+    "gray-blue-40": "#c8d7ee",
+    "gray-blue-50": "#a8b9d5",
+    "gray-blue-60": "#8ba3ca",
+    "gray-blue-70": "#4a6592",
+    "gray-blue-80": "#2c4a7d",
+    "gray-blue-90": "#0b2c64",
+    "gray-blue-100": "#00173e"
   }
 }
