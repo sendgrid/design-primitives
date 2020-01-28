@@ -50,6 +50,16 @@ export const colorOrangeDark = "#a83e00";
 export const colorOrangeDarkest = "#762e04";
 export const colorOrangeLight = "#fbb68f";
 export const colorOrangeLightest = "#ffecd8";
+export const colorOrange10 = "#ffecd8";
+export const colorOrange100 = "#2c1102";
+export const colorOrange20 = "#fdd5bf";
+export const colorOrange30 = "#fbb68f";
+export const colorOrange40 = "#fa9c66";
+export const colorOrange50 = "#f28510";
+export const colorOrange60 = "#e46216";
+export const colorOrange70 = "#a83e00";
+export const colorOrange80 = "#762e04";
+export const colorOrange90 = "#451b02";
 export const colorPink = "#f772a2";
 export const colorPinkDark = "#d82a68";
 export const colorPinkDarkest = "#7c002c";
@@ -235,6 +245,16 @@ colorOrangeDark,
 colorOrangeDarkest,
 colorOrangeLight,
 colorOrangeLightest,
+colorOrange10,
+colorOrange100,
+colorOrange20,
+colorOrange30,
+colorOrange40,
+colorOrange50,
+colorOrange60,
+colorOrange70,
+colorOrange80,
+colorOrange90,
 colorPink,
 colorPinkDark,
 colorPinkDarkest,
