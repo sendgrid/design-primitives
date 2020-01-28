@@ -238,20 +238,50 @@
     "color-pink--darkest": {
       "value": "{!pink-90}"
     },
+    "color-red-10": {
+      "value": "{!red-10}"
+    },
+    "color-red-20": {
+      "value": "{!red-20}"
+    },
+    "color-red-30": {
+      "value": "{!red-30}"
+    },
+    "color-red-40": {
+      "value": "{!red-40}"
+    },
+    "color-red-50": {
+      "value": "{!red-50}"
+    },
+    "color-red-60": {
+      "value": "{!red-60}"
+    },
+    "color-red-70": {
+      "value": "{!red-70}"
+    },
+    "color-red-80": {
+      "value": "{!red-80}"
+    },
+    "color-red-90": {
+      "value": "{!red-90}"
+    },
+    "color-red-100": {
+      "value": "{!red-100}"
+    },
     "color-red--lightest": {
-      "value": "{!red--lightest}"
+      "value": "{!red-10}"
     },
     "color-red--light": {
-      "value": "{!red--light}"
+      "value": "{!red-30}"
     },
     "color-red": {
-      "value": "{!red}"
+      "value": "{!red-50}"
     },
     "color-red--dark": {
-      "value": "{!red--dark}"
+      "value": "{!red-80}"
     },
     "color-red--darkest": {
-      "value": "{!red--darkest}"
+      "value": "{!red-90}"
     },
     "color-orange--lightest": {
       "value": "{!orange--lightest}"

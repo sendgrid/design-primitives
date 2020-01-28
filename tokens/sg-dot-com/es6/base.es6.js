@@ -81,10 +81,20 @@ export const colorPurple70 = "#400e9a";
 export const colorPurple80 = "#300b75";
 export const colorPurple90 = "#1c0050";
 export const colorRed = "#ce241a";
-export const colorRedDark = "#740600";
+export const colorRedDark = "#700600";
 export const colorRedDarkest = "#4a0400";
 export const colorRedLight = "#ff8c85";
 export const colorRedLightest = "#ffe9e7";
+export const colorRed10 = "#ffe9e7";
+export const colorRed100 = "#2e0200";
+export const colorRed20 = "#ffb9b3";
+export const colorRed30 = "#ff8c85";
+export const colorRed40 = "#e8534a";
+export const colorRed50 = "#ce241a";
+export const colorRed60 = "#ac1e16";
+export const colorRed70 = "#940800";
+export const colorRed80 = "#700600";
+export const colorRed90 = "#4a0400";
 export const colorTeal = "#22d5a7";
 export const colorTealDark = "#00634a";
 export const colorTealDarkest = "#001611";
@@ -260,6 +270,16 @@ colorRedDark,
 colorRedDarkest,
 colorRedLight,
 colorRedLightest,
+colorRed10,
+colorRed100,
+colorRed20,
+colorRed30,
+colorRed40,
+colorRed50,
+colorRed60,
+colorRed70,
+colorRed80,
+colorRed90,
 colorTeal,
 colorTealDark,
 colorTealDarkest,
