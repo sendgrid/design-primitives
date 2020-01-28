@@ -58,20 +58,50 @@
     "color-blue--darkest": {
       "value": "{!blue-100}"
     },
+    "color-turquoise-10": {
+      "value": "{!turquoise-10}"
+    },
+    "color-turquoise-20": {
+      "value": "{!turquoise-20}"
+    },
+    "color-turquoise-30": {
+      "value": "{!turquoise-30}"
+    },
+    "color-turquoise-40": {
+      "value": "{!turquoise-40}"
+    },
+    "color-turquoise-50": {
+      "value": "{!turquoise-50}"
+    },
+    "color-turquoise-60": {
+      "value": "{!turquoise-60}"
+    },
+    "color-turquoise-70": {
+      "value": "{!turquoise-70}"
+    },
+    "color-turquoise-80": {
+      "value": "{!turquoise-80}"
+    },
+    "color-turquoise-90": {
+      "value": "{!turquoise-90}"
+    },
+    "color-turquoise-100": {
+      "value": "{!turquoise-100}"
+    },
     "color-turquoise--lightest": {
-      "value": "{!turquoise--lightest}"
+      "value": "{!turquoise-10}"
     },
     "color-turquoise--light": {
-      "value": "{!turquoise--light}"
+      "value": "{!turquoise-30}"
     },
     "color-turquoise": {
-      "value": "{!turquoise}"
+      "value": "{!turquoise-50}"
     },
     "color-turquoise--dark": {
-      "value": "{!turquoise--dark}"
+      "value": "{!turquoise-70}"
     },
     "color-turquoise--darkest": {
-      "value": "{!turquoise--darkest}"
+      "value": "{!turquoise-90}"
     },
     "color-violet--lightest": {
       "value": "{!violet--lightest}"

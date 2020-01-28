@@ -75,6 +75,16 @@ export const colorTurquoiseDark = "#006cbc";
 export const colorTurquoiseDarkest = "#00345a";
 export const colorTurquoiseLight = "#b9e1ff";
 export const colorTurquoiseLightest = "#ebf7ff";
+export const colorTurquoise10 = "#ebf7ff";
+export const colorTurquoise100 = "#001a2e";
+export const colorTurquoise20 = "#d1ebff";
+export const colorTurquoise30 = "#b9e1ff";
+export const colorTurquoise40 = "#66beff";
+export const colorTurquoise50 = "#199dff";
+export const colorTurquoise60 = "#008af0";
+export const colorTurquoise70 = "#006cbc";
+export const colorTurquoise80 = "#004f8a";
+export const colorTurquoise90 = "#00345a";
 export const colorViolet = "#c850de";
 export const colorVioletDark = "#740089";
 export const colorVioletDarkest = "#490057";
@@ -210,6 +220,16 @@ colorTurquoiseDark,
 colorTurquoiseDarkest,
 colorTurquoiseLight,
 colorTurquoiseLightest,
+colorTurquoise10,
+colorTurquoise100,
+colorTurquoise20,
+colorTurquoise30,
+colorTurquoise40,
+colorTurquoise50,
+colorTurquoise60,
+colorTurquoise70,
+colorTurquoise80,
+colorTurquoise90,
 colorViolet,
 colorVioletDark,
 colorVioletDarkest,
