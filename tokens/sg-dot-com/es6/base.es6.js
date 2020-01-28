@@ -120,6 +120,16 @@ export const colorTealDark = "#00634a";
 export const colorTealDarkest = "#001611";
 export const colorTealLight = "#96fde2";
 export const colorTealLightest = "#dbfff6";
+export const colorTeal10 = "#dbfff6";
+export const colorTeal100 = "#001611";
+export const colorTeal20 = "#c2ffef";
+export const colorTeal30 = "#96fde2";
+export const colorTeal40 = "#64fbd5";
+export const colorTeal50 = "#35e4b8";
+export const colorTeal60 = "#22d5a7";
+export const colorTeal70 = "#1ba783";
+export const colorTeal80 = "#00634a";
+export const colorTeal90 = "#004735";
 export const colorTurquoise = "#199dff";
 export const colorTurquoiseDark = "#006cbc";
 export const colorTurquoiseDarkest = "#00345a";
@@ -335,6 +345,16 @@ colorTealDark,
 colorTealDarkest,
 colorTealLight,
 colorTealLightest,
+colorTeal10,
+colorTeal100,
+colorTeal20,
+colorTeal30,
+colorTeal40,
+colorTeal50,
+colorTeal60,
+colorTeal70,
+colorTeal80,
+colorTeal90,
 colorTurquoise,
 colorTurquoiseDark,
 colorTurquoiseDarkest,
