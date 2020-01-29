@@ -5,7 +5,7 @@
   "repository": "https://github.com/sendgrid/design-primitives",
   "scripts": {
     "tokens": "gulp",
-    "deploy": "yarn tokens && lerna publish && npm publish",
+    "deploy": "yarn tokens && lerna publish && yarn publish",
     "deploy:force": "yarn tokens && lerna publish --force-publish=*"
   },
   "author": "Team UI/UX <team-uiux@sendgrid.com>",
